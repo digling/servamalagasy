@@ -14,12 +14,27 @@ Conceptlists in Concepticon:
 ## Statistics
 
 
+[![Build Status](https://travis-ci.org/lexibank/servamalagasy.svg?branch=master)](https://travis-ci.org/lexibank/servamalagasy)
 ![Glottolog: 83%](https://img.shields.io/badge/Glottolog-83%25-yellowgreen.svg "Glottolog: 83%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
+![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
+![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 24
 - **Concepts:** 200
 - **Lexemes:** 4,795
 - **Sources:** 1
 - **Synonymy:** 1.00
+- **Invalid lexemes:** 0
+- **Tokens:** 28,652
+- **Segments:** 28 (0 BIPA errors, 0 CTLS sound class errors, 28 CLTS modified)
+- **Inventory size (avg):** 27.04
+
+# Contributors
+
+Name | GitHub user | Role
+--- | --- | ---
+ | @ | maintainer
+
+
