@@ -1,0 +1,211 @@
+
+  #  Français                   Malagasy                     Tsimihety (Mandritsara)
+____________________________________________________________________________________
+
+  1  je                         izaho                        zaho
+  2  tu                         ianao                        anao
+  3  il                         izy                          izy
+  4  nous                       isika                        atsika
+  5  vous                       ianareo                      areo
+  6  ils                        izy ireo                     zareo
+  7  ceci                       ity                          toy
+  8  cela                       izany                        zany
+  9  ici                        eto                          aketo
+ 10  là                         ao                           aroy
+ 11  qui                        iza                          azovy
+ 12  que (qu'est-ce que; quoi)  inona                        ino
+ 13  où                         aiza                         aiza
+ 14  quand                      oviana                       afiriagna
+ 15  comment                    ahoana                       manankory
+ 16  ne pas                     tsy                          aza
+ 17  tout                       rehetra                      jiaby
+ 18  beaucoup                   betsaka                      maro
+ 19  quelques                   vitsivitsy                   tsy fontry
+ 20  peu                        kely                         hely
+ 21  autre                      hafa                         hafa
+ 22  un                         iray                         araiky
+ 23  deux                       roa                          aroa
+ 24  trois                      telo                         telo
+ 25  quatre                     efatra                       aifatra
+ 26  cinq                       dimy                         dimy
+ 27  grand                      lehibe                       geda
+ 28  long                       lava                         lava
+ 29  large                      malalaka                     malalaka
+ 30  épais                      matevina                     matevigny
+ 31  lourd                      mavesatra                    mavesatra
+ 32  petit                      kely                         hely
+ 33  court                      fohy                         fohy
+ 34  étroit                     tery                         mahety
+ 35  fin                        manify                       matify
+ 36  femme                      vehivavy                     vaiavy
+ 37  homme (mâle adulte)        lehilahy                     lalahy
+ 38  homme (être humain)        olona                        ologno
+ 39  enfant                     zaza                         zaza
+ 40  femme (épouse)             vady                         vady
+ 41  mari                       vady                         vady
+ 42  mère                       reny                         niny
+ 43  père                       ray                          baba
+ 44  animal                     biby                         biby
+ 45  poisson                    trondro                      laoko
+ 46  oiseau                     vorona                       vorogno
+ 47  chien                      alika                        amboa
+ 48  pou                        hao                          hao
+ 49  serpent                    bibilava                     bibilava
+ 50  ver                        kankana                      hankagna
+ 51  arbre                      hazo                         kakazo
+ 52  forêt                      ala                          atiala
+ 53  bâton                      kibay                        koboay
+ 54  fruit                      voankazo                     voankazo
+ 55  graine                     voa                          ambe
+ 56  feuille                    ravina                       raviny
+ 57  racine                     faka                         vahany
+ 58  écorce                     hodi-kazo                    hodikakazo
+ 59  fleur                      voninkazo                    felagna
+ 60  herbe                      ahitra                       ahitry
+ 61  corde                      tady                         tady
+ 62  peau                       hoditra                      hoditry
+ 63  viande                     hena                         hena
+ 64  sang                       ra                           lio
+ 65  os                         taolana                      taholagna
+ 66  graisse (matière)          taviny                       vondraka
+ 67  œuf                        atody                        atody
+ 68  corne                      tandroka                     ampondo
+ 69  queue                      rambo                        ohy
+ 70  plume                      volom-borona                 volomborogno
+ 71  cheveux                    volo                         maramaragna
+ 72  tête                       loha                         loha
+ 73  oreille                    sofina                       sofigny
+ 74  œil                        maso                         maso
+ 75  nez                        orona                        horogno
+ 76  bouche                     vava                         vava
+ 77  dent                       nify                         nify
+ 78  langue                     lela                         lela
+ 79  ongle                      hoho                         angofo
+ 80  pied                       tongotra                     hongotro
+ 81  jambe                      ranjo                        vavitsy
+ 82  genou                      lohalika                     lohalina
+ 83  main                       tanana                       tagnagna
+ 84  aile                       elatra                       embagna
+ 85  ventre                     kibo                         boko
+ 86  entrailles                 tsinay                       tsinay
+ 87  cou                        vozona                       ambozogno
+ 88  dos                        lamosina                     tahezagna
+ 89  poitrine                   tratra                       tratra
+ 90  cœur                       fo                           fo
+ 91  foie                       aty                          aty
+ 92  boire                      misotro                      migiaka
+ 93  manger                     mihinana                     homagna
+ 94  mordre                     manaikitra                   magnekitry
+ 95  sucer                      mifiaka                      minono
+ 96  cracher                    mandrehoka                   mihaka
+ 97  vomir                      mandoa                       mandoa
+ 98  souffler                   mitsoka                      mitsotro
+ 99  respirer                   miaina                       miaigny
+100  rire                       mihomehy                     mimoehy
+101  voir                       mahita                       mahita
+102  entendre                   mihaino                      mitandregny
+103  savoir                     mahay                        mahay
+104  penser                     mieritreritra                mieritreritry
+105  sentir (par le nez)        manimbolo                    maharegny
+106  craindre                   matahotra                    matahotro
+107  dormir                     matory                       mandry
+108  vivre                      velona                       velogno
+109  mourir                     maty                         maty
+110  tuer                       mamono                       mamono
+111  se battre                  miady                        miady
+112  chasser                    mihaza                       mangorogno
+113  frapper                    mikapoka                     mamboko
+114  couper                     mandidy                      mandidy
+115  fendre (diviser)           mamaky                       mamaky
+116  poignarder                 manatsatoka antsy            mitomboko
+117  gratter                    mikiky                       magniky
+118  creuser                    mangady                      mangady
+119  nager                      milomano                     milomagno
+120  voler                      manidina                     magnembagna
+121  aller                      mandeha                      mandeha
+122  venir                      avy                          havy
+123  être couche                mandry                       mandry
+124  être assis                 mipetraka                    mantotry
+125  être debout                mitsangana                   mitsangagna
+126  tourner                    mihodina                     mihodigny
+127  tomber                     mianjera                     lavo
+128  donner                     manome                       magname
+129  tenir                      mitantana                    mitagna
+130  presser (comme un citron)  manery                       mangoeky
+131  frotter                    manakasoka                   mandrokotro
+132  laver                      manasa                       manasa
+133  essuyer                    mamafa                       mamafa
+134  tirer                      mitifitra                    mitifitry
+135  pousser                    manosika                     manidigny
+136  jeter (lancer)             manoraka                     manopy
+137  lier                       mamehy                       mamehy
+138  coudre                     manjaitra                    manjaitry
+139  compter                    manisa                       magnisa
+140  dire                       milaza                       mivolagna
+141  chanter                    mihira                       mihira
+142  jouer                      milalao                      misoma
+143  flotter                    mitsinkafona                 mitsilay
+144  couler                     mikoriana                    mivalagna
+145  geler                      mandry                       mivongagna
+146  gonfler                    mibontsina                   mivonto
+147  soleil                     masoandro                    masova
+148  lune                       volana                       davolagna
+149  étoile                     kintana                      lakintagna
+150  eau                        rano                         rano
+151  pluie                      orana                        mahalegny
+152  rivière                    renirano                     tegnarano
+153  lac                        farihy                       matsabory
+154  mer                        ranomasina                   ranomasigny
+155  sel                        sira                         sira
+156  pierre                     vato                         vato
+157  sable                      fasika                       alagnagna
+158  poussière                  vovoka                       jofompotaka
+159  terre                      tany                         tany
+160  nuage                      rahona                       rondro
+161  brouillard                 zavona                       zavogno
+162  ciel                       lanitra                      lagnitry
+163  vent                       rivotra                      rivotro
+164  neige                      ranomandry                   fanala
+165  glace                      ranomandry                   lagilasy
+166  fumée                      setroka                      tsemboko
+167  feu                        afo                          motro
+168  cendre                     lavenona                     jofo
+169  brûler                     mandoro                      magnoro
+170  route                      lalana                       lalagna
+171  montagne                   tendrombohitra               tanety
+172  rouge                      mena                         mena
+173  vert                       maitso                       mahitso
+174  jaune                      mavo                         fondragna
+175  blanc                      fotsy                        fotsy
+176  noir                       mainty                       mahintigny
+177  nuit                       alina                        haligny
+178  jour                       andro                        andro
+179  an (année)                 taona                        tagno
+180  chaud                      mafana                       mafana
+181  froid                      mangatsiaka                  manintsy
+182  plein                      feno                         feno
+183  nouveau                    vaovao                       vaovao
+184  vieux                      antitra                      antitry
+185  bon                        tsara                        tsara
+186  mauvais                    ratsy                        ratsy
+187  pourri                     lo                           lo
+188  sale                       maloto                       maloto
+189  droit                      mahitsy                      mahitsy
+190  rond                       boribory                     boribory
+191  tranchant                  maranitra                    maragnitry
+192  émoussé                    dombo                        malomogno
+193  lisse                      malama                       malamatra
+194  mouillé                    mando                        lendegny
+195  sec                        maina                        maigny
+196  juste (correct)            mety                         manjary
+197  près                       akaiky                       mariny
+198  loin                       lavitra                      lavitry
+199  droite                     havanana                     ankahery
+200  gauche                     havia                        ankavia
+201  à                          any                          akagny
+202  dans                       anaty                        agnatiny
+203  avec                       amin'ny                      amin ny
+204  et                         sy                           sindraiky
+205  si                         raha                         raohatra
+206  parce que                  satria                       satria
+207  nom                        anarana                      agnaragna

@@ -1,0 +1,211 @@
+
+  #  English                      Italiano           Français                   Malagasy           Ny fiteninao
+_______________________________________________________________________________________________________________
+
+  1  I                            io                 je                         izaho              
+  2  you (singular)               tu                 tu                         ianao              
+  3  he                           egli               il                         izy                
+  4  we                           noi                nous                       isika              
+  5  you (plural)                 voi                vous                       ianareo            
+  6  they                         essi               ils                        izy ireo           
+  7  this                         questo             ceci                       ity                
+  8  that                         quello             cela                       izany              
+  9  here                         qui                ici                        eto                
+ 10  there                        li                 là                         ao                 
+ 11  who                          chi                qui                        iza                
+ 12  what                         che                que (qu'est-ce que; quoi)  inona              
+ 13  where                        dove               où                         aiza               
+ 14  when                         quando             quand                      oviana             
+ 15  how                          come               comment                    ahoana             
+ 16  not                          non                ne pas                     tsy                
+ 17  all                          tutto              tout                       rehetra            
+ 18  many                         molti              beaucoup                   betsaka            
+ 19  some                         alcuni             quelques                   vitsivitsy         
+ 20  few                          poco               peu                        kely               
+ 21  other                        altro              autre                      hafa               
+ 22  one                          uno                un                         iray               
+ 23  two                          due                deux                       roa                
+ 24  three                        tre                trois                      telo               
+ 25  four                         quattro            quatre                     efatra             
+ 26  five                         cinque             cinq                       dimy               
+ 27  big                          grande             grand                      lehibe             
+ 28  long                         lungo              long                       lava               
+ 29  wide                         largo              large                      malalaka           
+ 30  thick                        spesso             épais                      matevina           
+ 31  heavy                        pesante            lourd                      mavesatra          
+ 32  small                        piccolo            petit                      kely               
+ 33  short                        corto              court                      fohy               
+ 34  narrow                       stretto            étroit                     tery               
+ 35  thin                         sottile            fin                        manify             
+ 36  woman                        donna              femme                      vehivavy           
+ 37  man (adult male)             uomo               homme (mâle adulte)        lehilahy           
+ 38  man (human being)            uomo               homme (être humain)        olona              
+ 39  child                        bambino            enfant                     zaza               
+ 40  wife                         moglie             femme (épouse)             vady               
+ 41  husband                      marito             mari                       vady               
+ 42  mother                       madre              mère                       reny               
+ 43  father                       padre              père                       ray                
+ 44  animal                       animale            animal                     biby               
+ 45  fish                         pesce              poisson                    trondro            
+ 46  bird                         uccello            oiseau                     vorona             
+ 47  dog                          cane               chien                      alika              
+ 48  louse                        pidocchio          pou                        hao                
+ 49  snake                        serpente           serpent                    bibilava           
+ 50  worm                         verme              ver                        kankana            
+ 51  tree                         albero             arbre                      hazo               
+ 52  forest                       foresta            forêt                      ala                
+ 53  stick                        bastone            bâton                      kibay              
+ 54  fruit                        frutta             fruit                      voankazo           
+ 55  seed (semen)                 seme               graine                     voa                
+ 56  leaf                         foglia             feuille                    ravina             
+ 57  root                         radice             racine                     faka               
+ 58  bark (of a tree)             corteccia          écorce                     hodi-kazo          
+ 59  flower                       fiore              fleur                      voninkazo          
+ 60  grass                        erba               herbe                      ahitra             
+ 61  rope                         corda              corde                      tady               
+ 62  skin                         pelle              peau                       hoditra            
+ 63  meat                         carne              viande                     hena               
+ 64  blood                        sangue             sang                       ra                 
+ 65  bone                         osso               os                         taolana            
+ 66  fat (noun)                   grasso             graisse (matière)          taviny             
+ 67  egg                          uovo               œuf                        atody              
+ 68  horn                         corno              corne                      tandroka           
+ 69  tail                         coda               queue                      rambo              
+ 70  feather                      penna              plume                      volom-borona       
+ 71  hair (on the head)           capelli            cheveux                    volo               
+ 72  head                         testa              tête                       loha               
+ 73  ear                          orecchio           oreille                    sofina             
+ 74  eye                          occhio             œil                        maso               
+ 75  nose                         naso               nez                        orona              
+ 76  mouth                        bocca              bouche                     vava               
+ 77  tooth                        dente              dent                       nify               
+ 78  tongue                       lingua             langue                     lela               
+ 79  fingernail                   unghia             ongle                      hoho               
+ 80  foot                         piede              pied                       tongotra           
+ 81  leg                          gamba              jambe                      ranjo              
+ 82  knee                         ginocchio          genou                      lohalika           
+ 83  hand                         mano               main                       tanana             
+ 84  wing                         ala                aile                       elatra             
+ 85  belly                        pancia             ventre                     kibo               
+ 86  guts                         interiora          entrailles                 tsinay             
+ 87  neck                         collo              cou                        vozona             
+ 88  back (of a person)           schiena            dos                        lamosina           
+ 89  breast                       petto              poitrine                   tratra             
+ 90  heart                        cuore              cœur                       fo                 
+ 91  liver                        fegato             foie                       aty                
+ 92  to drink                     bere               boire                      misotro            
+ 93  to eat                       mangiare           manger                     mihinana           
+ 94  to bite                      mordere            mordre                     manaikitra         
+ 95  to suck                      succhiare          sucer                      mifiaka            
+ 96  to spit                      sputare            cracher                    mandrehoka         
+ 97  to vomit                     vomitare           vomir                      mandoa             
+ 98  to blow                      soffiare           souffler                   mitsoka            
+ 99  to breathe                   respirare          respirer                   miaina             
+100  to laugh                     ridere             rire                       mihomehy           
+101  to see                       vedere             voir                       mahita             
+102  to hear                      sentire            entendre                   mihaino            
+103  to know (facts)              sapere             savoir                     mahay              
+104  to think                     pensare            penser                     mieritreritra      
+105  to smell (perceive)          odorare (sentire)  sentir (par le nez)        manimbolo          
+106  to fear                      temere             craindre                   matahotra          
+107  to sleep                     dormire            dormir                     matory             
+108  to live                      vivere             vivre                      velona             
+109  to die                       morire             mourir                     maty               
+110  to kill                      uccidere           tuer                       mamono             
+111  to fight                     combattere         se battre                  miady              
+112  to hunt                      cacciare           chasser                    mihaza             
+113  to hit                       colpire            frapper                    mikapoka           
+114  to cut                       tagliare           couper                     mandidy            
+115  to split                     dividere           fendre (diviser)           mamaky             
+116  to stab                      pugnalare          poignarder                 manatsatoka antsy  
+117  to scratch                   grattare           gratter                    mikiky             
+118  to dig                       scavare            creuser                    mangady            
+119  to swim                      nuotare            nager                      milomano           
+120  to fly                       volare             voler                      manidina           
+121  to walk (to go)              andare             aller                      mandeha            
+122  to come                      venire             venir                      avy                
+123  to lie (state; as in a bed)  stare sdraiato     être couche                mandry             
+124  to sit (state)               stare seduto       être assis                 mipetraka          
+125  to stand (state)             stare in piedi     être debout                mitsangana         
+126  to turn (intransitive)       girare             tourner                    mihodina           
+127  to fall                      cadere             tomber                     mianjera           
+128  to give                      dare               donner                     manome             
+129  to hold                      tenere             tenir                      mitantana          
+130  to squeeze                   spremere           presser (comme un citron)  manery             
+131  to rub                       strofinare         frotter                    manakasoka         
+132  to wash                      lavare             laver                      manasa             
+133  to wipe                      asciugare          essuyer                    mamafa             
+134  to pull                      tirare             tirer                      mitifitra          
+135  to push                      spingere           pousser                    manosika           
+136  to throw                     lanciare           jeter (lancer)             manoraka           
+137  to tie                       legare             lier                       mamehy             
+138  to sew                       cucire             coudre                     manjaitra          
+139  to count                     contare            compter                    manisa             
+140  to say                       dire               dire                       milaza             
+141  to sing                      cantare            chanter                    mihira             
+142  to play                      giocare            jouer                      milalao            
+143  to float                     galleggiare        flotter                    mitsinkafona       
+144  to flow                      scorrere           couler                     mikoriana          
+145  to freeze                    gelare             geler                      mandry             
+146  to swell                     gonfiare           gonfler                    mibontsina         
+147  sun                          sole               soleil                     masoandro          
+148  moon                         luna               lune                       volana             
+149  star                         stella             étoile                     kintana            
+150  water                        acqua              eau                        rano               
+151  rain                         pioggia            pluie                      orana              
+152  river                        fiume              rivière                    renirano           
+153  lake                         lago               lac                        farihy             
+154  sea                          mare               mer                        ranomasina         
+155  salt                         sale               sel                        sira               
+156  stone                        pietra             pierre                     vato               
+157  sand                         sabbia             sable                      fasika             
+158  dust                         polvere            poussière                  vovoka             
+159  earth                        terra              terre                      tany               
+160  cloud                        nuvola             nuage                      rahona             
+161  fog                          nebbia             brouillard                 zavona             
+162  sky                          cielo              ciel                       lanitra            
+163  wind                         vento              vent                       rivotra            
+164  snow                         neve               neige                      ranomandry         
+165  ice                          ghiaccio           glace                      ranomandry         
+166  smoke                        fumo               fumée                      setroka            
+167  fire                         fuoco              feu                        afo                
+168  ash                          cenere             cendre                     lavenona           
+169  to burn                      bruciare           brûler                     mandoro            
+170  road                         strada             route                      lalana             
+171  mountain                     montagna           montagne                   tendrombohitra     
+172  red                          rosso              rouge                      mena               
+173  green                        verde              vert                       maitso             
+174  yellow                       giallo             jaune                      mavo               
+175  white                        bianco             blanc                      fotsy              
+176  black                        nero               noir                       mainty             
+177  night                        notte              nuit                       alina              
+178  day                          giorno             jour                       andro              
+179  year                         anno               an (année)                 taona              
+180  warm                         caldo              chaud                      mafana             
+181  cold                         freddo             froid                      mangatsiaka        
+182  full                         pieno              plein                      feno               
+183  new                          nuovo              nouveau                    vaovao             
+184  old                          vecchio            vieux                      antitra            
+185  good                         buono              bon                        tsara              
+186  bad                          cattivo            mauvais                    ratsy              
+187  rotten                       marcio             pourri                     lo                 
+188  dirty                        sporco             sale                       maloto             
+189  straight                     dritto             droit                      mahitsy            
+190  round                        rotondo            rond                       boribory           
+191  sharp (as a knife)           affilato           tranchant                  maranitra          
+192  dull (as a knife)            smussato           émoussé                    dombo              
+193  smooth                       liscio             lisse                      malama             
+194  wet                          bagnato            mouillé                    mando              
+195  dry                          secco              sec                        maina              
+196  correct (just; right)        giusto             juste (correct)            mety               
+197  near                         vicino             près                       akaiky             
+198  far                          lontano            loin                       lavitra            
+199  right (adj.)                 destra             droite                     havanana           
+200  left (adj.)                  sinistra           gauche                     havia              
+201  at                           a                  à                          any                
+202  in                           in                 dans                       anaty              
+203  with                         con                avec                       amin'ny            
+204  and                          e                  et                         sy                 
+205  if                           se                 si                         raha               
+206  because                      perché             parce que                  satria             
+207  name                         nome               nom                        anarana            
