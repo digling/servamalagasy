@@ -1,17 +1,17 @@
 ID	Number	Name	Area	Latitude	Longitude	FileName	Glottocode
 Malagasy	00	Malagasy	Reference	-18.78	46.85	00-Malagasy.Reference.txt	
-SakalavaAmbanja	01	Sakalava	Ambanja	-13.67	48.33	01-Sakalava.Ambanja.txt	
-SihanakaAmbatondrazaka	02	Sihanaka	Ambatondrazaka	-17.87	48.42	02-Sihanaka.Ambatondrazaka.txt	
+SakalavaAmbanja	01	Sakalava	Ambanja	-13.67	48.33	01-Sakalava.Ambanja.txt   saka1291	
+SihanakaAmbatondrazaka	02	Sihanaka	Ambatondrazaka	-17.87	48.42	02-Sihanaka.Ambatondrazaka.txt	siha1244
 AntankaranaAmbilobe	03	Antankarana	Ambilobe	-13.2	49.05	03-Antankarana.Ambilobe.txt	anta1255
 AntandroyAmbovombe	04	Antandroy	Ambovombe	-25.17	46.08	04-Antandroy.Ambovombe.txt	
 MahafalyAmpanihy	05	Mahafaly	Ampanihy	-24.68	44.73	05-Mahafaly.Ampanihy.txt	maha1309
 MikeaAmpoakafo	06	Mikea	Ampoakafo	-22.67	43.75	06-Mikea.Ampoakafo.txt	
-BetsimisarakaAntalaha	07	Betsimisaraka	Antalaha	-14.88	50.27	07-Betsimisaraka.Antalaha.txt	
-MerinaAntananarivo	08	Merina	Antananarivo	-18.9	47.52	08-Merina.Antananarivo.txt	
+BetsimisarakaAntalaha	07	Betsimisaraka	Antalaha	-14.88	50.27	07-Betsimisaraka.Antalaha.txt	  nort2890
+MerinaAntananarivo	08	Merina	Antananarivo	-18.9	47.52	08-Merina.Antananarivo.txt  meri1243	
 BaraBetroka	09	Bara	Betroka	-23.28	46.08	09-Bara.Betroka.txt	bara1369
 ZafisoroFarafangana	10	Zafisoro	Farafangana	-22.8	47.82	10-Zafisoro.Farafangana.txt	sout2920
 BetsimisarakaFenoarivo-Est	11	Betsimisaraka	Fenoarivo-Est	-17.38	49.4	11-Betsimisaraka.Fenoarivo-Est.txt	
-BetsileoFianarantsoa	12	Betsileo	Fianarantsoa	-21.43	47.08	12-Betsileo.Fianarantsoa.txt	
+BetsileoFianarantsoa	12	Betsileo	Fianarantsoa	-21.43	47.08	12-Betsileo.Fianarantsoa.txt	bets1235
 BetsimisarakaMahanoro	13	Betsimisaraka	Mahanoro	-19.88	48.8	13-Betsimisaraka.Mahanoro.txt	nort2890
 SakalavaMaintirano	14	Sakalava	Maintirano	-18.07	44.02	14-Sakalava.Maintirano.txt	
 SakalavaMahajanga	15	Sakalava	Mahajanga	-15.72	46.32	15-Sakalava.Mahajanga.txt	
@@ -21,13 +21,13 @@ TsimihetyMandritsara	18	Tsimihety	Mandritsara	-15.83	48.82	18-Tsimihety.Mandrits
 MasikoroMiary	19	Masikoro	Miary	-23.3	43.72	19-Masikoro.Miary.txt	masi1268
 SakalavaMorondava	20	Sakalava	Morondava	-20.28	44.32	20-Sakalava.Morondava.txt	saka1291
 AntanosyTolagnaro	21	Antanosy	Tolagnaro	-25.03	46.98	21-Antanosy.Tolagnaro.txt	tano1246
-VezoToliara	22	Vezo	Toliara	-23.34	43.67	22-Vezo.Toliara.txt 
+VezoToliara	22	Vezo	Toliara	-23.34	43.67	22-Vezo.Toliara.txt   vezo1235
 AntaisakaVangaindrano	23	Antaisaka	Vangaindrano	-23.32	47.6	23-Antaisaka.Vangaindrano.txt	
 AntankaranaVohemar	24	Antankarana	Vohemar	-13.37	50	24-Antankarana.Vohemar.txt	anta1255
 BetsileoAmbositra	25	Betsileo	Ambositra	-20.52	47.25	25-Betsileo.Ambositra.txt	
 BetsileoAmbalavao	26	Betsileo	Ambalavao	-21.83	46.92	26-Betsileo.Ambalavao.txt	
 AntanalanaItampolo	27	Antanalana	Itampolo	-24.68	43.95	27-Antanalana.Itampolo.txt	
-VezoMorombe	28	Vezo	Morombe	-21.74	43.36	28-Vezo.Morombe.txt	
+VezoMorombe	28	Vezo	Morombe	-21.74	43.36	28-Vezo.Morombe.txt	  vezo1235
 AntanosyBezaha	29	Antanosy	Bezaha	-23.5	44.5	29-Antanosy.Bezaha.txt	
 TanalaIfanadiana	30	Tanala	Ifanadiana	-21.28	47.63	30-Tanala.Ifanadiana.txt	
 BaraRanohira	31	Bara	Ranohira	-22.43	45.35	31-Bara.Ranohira.txt	bara1369
@@ -35,28 +35,28 @@ AntanalanaManorofify	32	Antanalana	Manorofify	-23.52	43.97	32-Antanalana.Manorof
 AntandroyToliara	33	Antandroy	Toliara	-23.34	43.67	33-Antandroy.Toliara.txt	
 AntanalanaAnakao	34	Antanalana	Anakao	-23.67	43.65	34-Antanalana.Anakao.txt	
 BetsimisarakaMarolambo	35	Betsimisaraka	Marolambo	-20.05	48.12	35-Betsimisaraka.Marolambo.txt	sout3125
-BetsimisarakaAntsiranana	36	Betsimisaraka	Antsiranana	-12.27	49.28	36-Betsimisaraka.Antsiranana.txt	
-BetsimisarakaBrickaville	37	Betsimisaraka	Brickaville	-18.82	49.07	37-Betsimisaraka.Brickaville.txt	
-BetsimisarakaToamasina	38	Betsimisaraka	Toamasina	-18.15	49.42	38-Betsimisaraka.Toamasina.txt	
-BetsimisarakaMananara	39	Betsimisaraka	Mananara	-16.17	49.77	39-Betsimisaraka.Mananara.txt	
-TsimihetyMampikony	40	Tsimihety	Mampikony	-16.09	47.64	40-Tsimihety.Mampikony.txt	
-TsimihetyAndapa	41	Tsimihety	Andapa	-14.67	49.65	41-Tsimihety.Andapa.txt	
-NosyBorahaAmbodifotatra	42	Nosy Boraha	Ambodifotatra	-17	49.85	42-Nosy Boraha.Ambodifotatra.txt	
-BaraBeroroha	43	Bara	Beroroha	-21.67	45.17	43-Bara.Beroroha.txt	
-SakalavaMiandrivazo	44	Sakalava	Miandrivazo	-19.56	45.45	44-Sakalava.Miandrivazo.txt	
-VezoMorondava	45	Vezo	Morondava	-20.28	44.32	45-Vezo.Morondava.txt	
-BaraIhosy	46	Bara	Ihosy	-22.4	46.12	46-Bara.Ihosy.txt	
-TsimihetyAntsohihy	47	Tsimihety	Antsohihy	-14.88	47.98	47-Tsimihety.Antsohihy.txt	
-MerinaMaevatanana	48	Merina	Maevatanana	-16.95	46.83	48-Merina.Maevatanana.txt	
-SakalavaBesalampy	49	Sakalava	Besalampy	-16.75	44.47	49-Sakalava.Besalampy.txt	
-BetsimisarakaTanambaoManampotsy	50	Betsimisaraka	Tanambao Manampotsy	-19.48	48.57	50-Betsimisaraka.Tanambao Manampotsy.txt	
-SihanakaMorarano Chrome	51	Sihanaka	Morarano Chrome	-17.75	48.17	51-Sihanaka.Morarano Chrome.txt	
-BetsileoAmbohimahasoa	52	Betsileo	Ambohimahasoa	-21.1	47.22	52-Betsileo.Ambohimahasoa.txt	
-BetsimisarakaMaroantsetra	53	Betsimisaraka	Maroantsetra	-15.43	49.75	53-Betsimisaraka.Maroantsetra.txt	
-MerinaAnalavory	54	Merina	Analavory	-18.58	46.43	54-Merina.Analavory.txt	
-BetsimisarakaSahavato	55	Betsimisaraka	Sahavato	-20.6	48.33	55-Betsimisaraka.Sahavato.txt	
-MahafalyEjeda	56	Mahafaly	Ejeda	-24.35	44.52	56-Mahafaly.Ejeda.txt	
-AntanosyBelamoty	57	Antanosy	Belamoty	-23.55	44.8	57-Antanosy.Belamoty.txt	
-SihanakaAndilamena	58	Sihanaka	Andilamena	-17.02	48.58	58-Sihanaka.Andilamena.txt	
+BetsimisarakaAntsiranana	36	Betsimisaraka	Antsiranana	-12.27	49.28	36-Betsimisaraka.Antsiranana.txt  nort2890	
+BetsimisarakaBrickaville	37	Betsimisaraka	Brickaville	-18.82	49.07	37-Betsimisaraka.Brickaville.txt  nort2890	
+BetsimisarakaToamasina	38	Betsimisaraka	Toamasina	-18.15	49.42	38-Betsimisaraka.Toamasina.txt 	nort2890
+BetsimisarakaMananara	39	Betsimisaraka	Mananara	-16.17	49.77	39-Betsimisaraka.Mananara.txt	  nort2890
+TsimihetyMampikony	40	Tsimihety	Mampikony	-16.09	47.64	40-Tsimihety.Mampikony.txt	tsim1257
+TsimihetyAndapa	41	Tsimihety	Andapa	-14.67	49.65	41-Tsimihety.Andapa.txt   tsim1257  	
+NosyBorahaAmbodifotatra	42	Nosy Boraha	Ambodifotatra	-17	49.85	42-Nosy Boraha.Ambodifotatra.txt  	  
+BaraBeroroha	43	Bara	Beroroha	-21.67	45.17	43-Bara.Beroroha.txt	bara1395
+SakalavaMiandrivazo	44	Sakalava	Miandrivazo	-19.56	45.45	44-Sakalava.Miandrivazo.txt	  saka1291
+VezoMorondava	45	Vezo	Morondava	-20.28	44.32	45-Vezo.Morondava.txt   vezo1235	
+BaraIhosy	46	Bara	Ihosy	-22.4	46.12	46-Bara.Ihosy.txt	  bara1395
+TsimihetyAntsohihy	47	Tsimihety	Antsohihy	-14.88	47.98	47-Tsimihety.Antsohihy.txt  tsim1257	
+MerinaMaevatanana	48	Merina	Maevatanana	-16.95	46.83	48-Merina.Maevatanana.txt	  meri1291
+SakalavaBesalampy	49	Sakalava	Besalampy	-16.75	44.47	49-Sakalava.Besalampy.txt	  saka1291
+BetsimisarakaTanambaoManampotsy	50	Betsimisaraka	Tanambao Manampotsy	-19.48	48.57	50-Betsimisaraka.Tanambao Manampotsy.txt  sout2920	
+SihanakaMorarano Chrome	51	Sihanaka	Morarano Chrome	-17.75	48.17	51-Sihanaka.Morarano Chrome.txt	  siha1244
+BetsileoAmbohimahasoa	52	Betsileo	Ambohimahasoa	-21.1	47.22	52-Betsileo.Ambohimahasoa.txt   bets1235	
+BetsimisarakaMaroantsetra	53	Betsimisaraka	Maroantsetra	-15.43	49.75	53-Betsimisaraka.Maroantsetra.txt	  nort2890
+MerinaAnalavory	54	Merina	Analavory	-18.58	46.43	54-Merina.Analavory.txt	  meri1243
+BetsimisarakaSahavato	55	Betsimisaraka	Sahavato	-20.6	48.33	55-Betsimisaraka.Sahavato.txt	  sout2920
+MahafalyEjeda	56	Mahafaly	Ejeda	-24.35	44.52	56-Mahafaly.Ejeda.txt	  maha1309
+AntanosyBelamoty	57	Antanosy	Belamoty	-23.55	44.8	57-Antanosy.Belamoty.txt    	
+SihanakaAndilamena	58	Sihanaka	Andilamena	-17.02	48.58	58-Sihanaka.Andilamena.txt    siha1244	
 AntandroyTsihombe	59	Antandroy	Tsihombe	-25.32	45.48	59-Antandroy.Tsihombe.txt	
-SakalavaBeloniTsiribihina	60	Sakalava	Belon'i Tsiribihina	-19.7	44.55	60-Sakalava.Belon'i Tsiribihina.txt	
+SakalavaBeloniTsiribihina	60	Sakalava	Belon'i Tsiribihina	-19.7	44.55	60-Sakalava.Belon'i Tsiribihina.txt   saka1291
