@@ -1,0 +1,208 @@
+ID,Name,Concepticon_ID,Concepticon_Gloss,Number,Italian_Gloss,French_Gloss,Malagasy_Gloss
+1_i,I,1209,I,1,io,je,izaho
+2_yousingular,you (singular),1215,THOU,2,tu,tu,ianao
+3_he,he,1211,HE,3,egli,il,izy
+4_we,we,1212,WE,4,noi,nous,isika
+5_youplural,you (plural),1213,YOU,5,voi,vous,ianareo
+6_they,they,817,THEY,6,essi,ils,izy ireo
+7_this,this,1214,THIS,7,questo,ceci,ity
+8_that,that,78,THAT,8,quello,cela,izany
+9_here,here,136,HERE,9,qui,ici,eto
+10_there,there,1937,THERE,10,li,là,ao
+11_who,who,1235,WHO,11,chi,qui,iza
+12_what,what,1236,WHAT,12,che,que (qu'est-ce que; quoi),inona
+13_where,where,1237,WHERE,13,dove,où,aiza
+14_when,when,1238,WHEN,14,quando,quand,oviana
+15_how,how,1239,HOW,15,come,comment,ahoana
+16_not,not,1240,NOT,16,non,ne pas,tsy
+17_all,all,98,ALL,17,tutto,tout,rehetra
+18_many,many,1198,MANY,18,molti,beaucoup,betsaka
+19_some,some,1241,SOME,19,alcuni,quelques,vitsivitsy
+20_few,few,1242,FEW,20,poco,peu,kely
+21_other,other,197,OTHER,21,altro,autre,hafa
+22_one,one,1493,ONE,22,uno,un,iray
+23_two,two,1498,TWO,23,due,deux,roa
+24_three,three,492,THREE,24,tre,trois,telo
+25_four,four,1500,FOUR,25,quattro,quatre,efatra
+26_five,five,493,FIVE,26,cinque,cinq,dimy
+27_big,big,1202,BIG,27,grande,grand,lehibe
+28_long,long,1203,LONG,28,lungo,long,lava
+29_wide,wide,1243,WIDE,29,largo,large,malalaka
+30_thick,thick,1244,THICK,30,spesso,épais,matevina
+31_heavy,heavy,1210,HEAVY,31,pesante,lourd,mavesatra
+32_small,small,1246,SMALL,32,piccolo,petit,kely
+33_short,short,1645,SHORT,33,corto,court,fohy
+34_narrow,narrow,1267,NARROW,34,stretto,étroit,tery
+35_thin,thin,743,END (OF TIME),35,sottile,fin,manify
+36_woman,woman,962,WOMAN,36,donna,femme,vehivavy
+37_manadultmale,man (adult male),1554,MAN,37,uomo,homme (mâle adulte),lehilahy
+38_manhumanbeing,man (human being),683,PERSON,38,uomo,homme (être humain),olona
+39_child,child,2099,CHILD,39,bambino,enfant,zaza
+40_wife,wife,1199,WIFE,40,moglie,femme (épouse),vady
+41_husband,husband,1200,HUSBAND,41,marito,mari,vady
+42_mother,mother,1216,MOTHER,42,madre,mère,reny
+43_father,father,1217,FATHER,43,padre,père,ray
+44_animal,animal,619,ANIMAL,44,animale,animal,biby
+45_fish,fish,227,FISH,45,pesce,poisson,trondro
+46_bird,bird,937,BIRD,46,uccello,oiseau,vorona
+47_dog,dog,2009,DOG,47,cane,chien,alika
+48_louse,louse,1392,LOUSE,48,pidocchio,pou,hao
+49_snake,snake,730,SNAKE,49,serpente,serpent,bibilava
+50_worm,worm,1219,WORM,50,verme,ver,kankana
+51_tree,tree,906,TREE,51,albero,arbre,hazo
+52_forest,forest,420,FOREST,52,foresta,forêt,ala
+53_stick,stick,1295,STICK,53,bastone,bâton,kibay
+54_fruit,fruit,1507,FRUIT,54,frutta,fruit,voankazo
+55_seedsemen,seed (semen),714,SEED,55,seme,graine,voa
+56_leaf,leaf,628,LEAF,56,foglia,feuille,ravina
+57_root,root,670,ROOT,57,radice,racine,faka
+58_barkofatree,bark (of a tree),1204,BARK,58,corteccia,écorce,hodi-kazo
+59_flower,flower,239,FLOWER,59,fiore,fleur,voninkazo
+60_grass,grass,606,GRASS,60,erba,herbe,ahitra
+61_rope,rope,1218,ROPE,61,corda,corde,tady
+62_skin,skin,763,SKIN,62,pelle,peau,hoditra
+63_meat,meat,634,MEAT,63,carne,viande,hena
+64_blood,blood,946,BLOOD,64,sangue,sang,ra
+65_bone,bone,1394,BONE,65,osso,os,taolana
+66_fatnoun,fat (noun),323,FAT (ORGANIC SUBSTANCE),66,grasso,graisse (matière),taviny
+67_egg,egg,744,EGG,67,uovo,œuf,atody
+68_horn,horn,1393,HORN (ANATOMY),68,corno,corne,tandroka
+69_tail,tail,1220,TAIL,69,coda,queue,rambo
+70_feather,feather,1201,FEATHER,70,penna,plume,volom-borona
+71_haironthehead,hair (on the head),2648,HAIR (HEAD),71,capelli,cheveux,volo
+72_head,head,1256,HEAD,72,testa,tête,loha
+73_ear,ear,1247,EAR,73,orecchio,oreille,sofina
+74_eye,eye,1248,EYE,74,occhio,œil,maso
+75_nose,nose,1221,NOSE,75,naso,nez,orona
+76_mouth,mouth,674,MOUTH,76,bocca,bouche,vava
+77_tooth,tooth,1380,TOOTH,77,dente,dent,nify
+78_tongue,tongue,1205,TONGUE,78,lingua,langue,lela
+79_fingernail,fingernail,1258,FINGERNAIL,79,unghia,ongle,hoho
+80_foot,foot,1301,FOOT,80,piede,pied,tongotra
+81_leg,leg,1297,LEG,81,gamba,jambe,ranjo
+82_knee,knee,1371,KNEE,82,ginocchio,genou,lohalika
+83_hand,hand,1277,HAND,83,mano,main,tanana
+84_wing,wing,1257,WING,84,ala,aile,elatra
+85_belly,belly,1251,BELLY,85,pancia,ventre,kibo
+86_guts,guts,1334,GUTS,86,interiora,entrailles,tsinay
+87_neck,neck,1333,NECK,87,collo,cou,vozona
+88_backofaperson,back (of a person),1291,BACK,88,schiena,dos,lamosina
+89_breast,breast,1592,CHEST,89,petto,poitrine,tratra
+90_heart,heart,1223,HEART,90,cuore,cœur,fo
+91_liver,liver,1224,LIVER,91,fegato,foie,aty
+92_todrink,to drink,1401,DRINK,92,bere,boire,misotro
+93_toeat,to eat,1336,EAT,93,mangiare,manger,mihinana
+94_tobite,to bite,1403,BITE,94,mordere,mordre,manaikitra
+95_tosuck,to suck,1421,SUCK,95,succhiare,sucer,mifiaka
+96_tospit,to spit,1440,SPIT,96,sputare,cracher,mandrehoka
+97_tovomit,to vomit,1278,VOMIT,97,vomitare,vomir,mandoa
+98_toblow,to blow,175,BLOW (OF WIND),98,soffiare,souffler,mitsoka
+99_tobreathe,to breathe,1407,BREATHE,99,respirare,respirer,miaina
+100_tolaugh,to laugh,1355,LAUGH,100,ridere,rire,mihomehy
+101_tosee,to see,1409,SEE,101,vedere,voir,mahita
+102_tohear,to hear,1408,HEAR,102,sentire,entendre,mihaino
+103_toknowfacts,to know (facts),1410,KNOW (SOMETHING),103,sapere,savoir,mahay
+104_tothink,to think,2271,THINK,104,pensare,penser,mieritreritra
+105_tosmellperceive,to smell (perceive),2124,SMELL,105,odorare (sentire),sentir (par le nez),manimbolo
+106_tofear,to fear,1419,FEAR (BE AFRAID),106,temere,craindre,matahotra
+107_tosleep,to sleep,1585,SLEEP,107,dormire,dormir,matory
+108_tolive,to live,1422,BE ALIVE,108,vivere,vivre,velona
+109_todie,to die,1494,DIE,109,morire,mourir,maty
+110_tokill,to kill,1417,KILL,110,uccidere,tuer,mamono
+111_tofight,to fight,1423,FIGHT,111,combattere,se battre,miady
+112_tohunt,to hunt,1435,HUNT,112,cacciare,chasser,mihaza
+113_tohit,to hit,353,STRIKE,113,colpire,frapper,mikapoka
+114_tocut,to cut,1432,CUT,114,tagliare,couper,mandidy
+115_tosplit,to split,1437,SPLIT,115,dividere,fendre (diviser),mamaky
+116_tostab,to stab,1434,STAB,116,pugnalare,poignarder,manatsatoka antsy
+117_toscratch,to scratch,1767,SCRAPE,117,grattare,gratter,mikiky
+118_todig,to dig,1418,DIG,118,scavare,creuser,mangady
+119_toswim,to swim,1439,SWIM,119,nuotare,nager,milomano
+120_tofly,to fly,1441,FLY (MOVE THROUGH AIR),120,volare,voler,manidina
+121_towalktogo,to walk (to go),695,GO,121,andare,aller,mandeha
+122_tocome,to come,1446,COME,122,venire,venir,avy
+123_toliestateasinabed,to lie (state; as in a bed),215,LIE DOWN,123,stare sdraiato,être couche,mandry
+124_tositstate,to sit (state),1416,SIT,124,stare seduto,être assis,mipetraka
+125_tostandstate,to stand (state),1442,STAND,125,stare in piedi,être debout,mitsangana
+126_toturnintransitive,to turn (intransitive),1588,TURN,126,girare,tourner,mihodina
+127_tofall,to fall,1280,FALL,127,cadere,tomber,mianjera
+128_togive,to give,1447,GIVE,128,dare,donner,manome
+129_tohold,to hold,1448,HOLD,129,tenere,tenir,mitantana
+130_tosqueeze,to squeeze,1414,SQUEEZE,130,spremere,presser (comme un citron),manery
+131_torub,to rub,1449,RUB,131,strofinare,frotter,manakasoka
+132_towash,to wash,1453,WASH,132,lavare,laver,manasa
+133_towipe,to wipe,1454,WIPE,133,asciugare,essuyer,mamafa
+134_topull,to pull,1455,PULL,134,tirare,tirer,mitifitra
+135_topush,to push,1452,PUSH,135,spingere,pousser,manosika
+136_tothrow,to throw,1456,THROW,136,lanciare,jeter (lancer),manoraka
+137_totie,to tie,1917,TIE,137,legare,lier,mamehy
+138_tosew,to sew,1457,SEW,138,cucire,coudre,manjaitra
+139_tocount,to count,1420,COUNT,139,contare,compter,manisa
+140_tosay,to say,1458,SAY,140,dire,dire,milaza
+141_tosing,to sing,1261,SING,141,cantare,chanter,mihira
+142_toplay,to play,1413,PLAY,142,giocare,jouer,milalao
+143_tofloat,to float,1574,FLOAT,143,galleggiare,flotter,mitsinkafona
+144_toflow,to flow,2003,FLOW,144,scorrere,couler,mikoriana
+145_tofreeze,to freeze,1431,FREEZE,145,gelare,geler,mandry
+146_toswell,to swell,1573,SWELL,146,gonfiare,gonfler,mibontsina
+147_sun,sun,1343,SUN,147,sole,soleil,masoandro
+148_moon,moon,1313,MOON,148,luna,lune,volana
+149_star,star,1430,STAR,149,stella,étoile,kintana
+150_water,water,948,WATER,150,acqua,eau,rano
+151_rain,rain,658,RAIN (PRECIPITATION),151,pioggia,pluie,orana
+152_river,river,666,RIVER,152,fiume,rivière,renirano
+153_lake,lake,624,LAKE,153,lago,lac,farihy
+154_sea,sea,1474,SEA,154,mare,mer,ranomasina
+155_salt,salt,1274,SALT,155,sale,sel,sira
+156_stone,stone,857,STONE,156,pietra,pierre,vato
+157_sand,sand,671,SAND,157,sabbia,sable,fasika
+158_dust,dust,2,DUST,158,polvere,poussière,vovoka
+159_earth,earth,1228,EARTH (SOIL),159,terra,terre,tany
+160_cloud,cloud,1489,CLOUD,160,nuvola,nuage,rahona
+161_fog,fog,249,FOG,161,nebbia,brouillard,zavona
+162_sky,sky,1732,SKY,162,cielo,ciel,lanitra
+163_wind,wind,960,WIND,163,vento,vent,rivotra
+164_snow,snow,784,SNOW,164,neve,neige,ranomandry
+165_ice,ice,617,ICE,165,ghiaccio,glace,ranomandry
+166_smoke,smoke,778,SMOKE (EXHAUST),166,fumo,fumée,setroka
+167_fire,fire,221,FIRE,167,fuoco,feu,afo
+168_ash,ash,646,ASH,168,cenere,cendre,lavenona
+169_toburn,to burn,2102,BURN,169,bruciare,brûler,mandoro
+170_road,road,667,ROAD,170,strada,route,lalana
+171_mountain,mountain,639,MOUNTAIN,171,montagna,montagne,tendrombohitra
+172_red,red,156,RED,172,rosso,rouge,mena
+173_green,green,1425,GREEN,173,verde,vert,maitso
+174_yellow,yellow,1424,YELLOW,174,giallo,jaune,mavo
+175_white,white,1335,WHITE,175,bianco,blanc,fotsy
+176_black,black,163,BLACK,176,nero,noir,mainty
+177_night,night,1233,NIGHT,177,notte,nuit,alina
+178_day,day,1225,DAY (NOT NIGHT),178,giorno,jour,andro
+179_year,year,1226,YEAR,179,anno,an (année),taona
+180_warm,warm,1232,WARM,180,caldo,chaud,mafana
+181_cold,cold,1287,COLD,181,freddo,froid,mangatsiaka
+182_full,full,1429,FULL,182,pieno,plein,feno
+183_new,new,1231,NEW,183,nuovo,nouveau,vaovao
+184_old,old,1229,OLD,184,vecchio,vieux,antitra
+185_good,good,1035,GOOD,185,buono,bon,tsara
+186_bad,bad,1292,BAD,186,cattivo,mauvais,ratsy
+187_rotten,rotten,1728,ROTTEN,187,marcio,pourri,lo
+188_dirty,dirty,1230,DIRTY,188,sporco,sale,maloto
+189_straight,straight,1404,STRAIGHT,189,dritto,droit,mahitsy
+190_round,round,1395,ROUND,190,rotondo,rond,boribory
+191_sharpasaknife,sharp (as a knife),1396,SHARP,191,affilato,tranchant,maranitra
+192_dullasaknife,dull (as a knife),379,BLUNT,192,smussato,émoussé,dombo
+193_smooth,smooth,1234,SMOOTH,193,liscio,lisse,malama
+194_wet,wet,1726,WET,194,bagnato,mouillé,mando
+195_dry,dry,1398,DRY,195,secco,sec,maina
+196_correctjustright,correct (just; right),1725,CORRECT (RIGHT),196,giusto,juste (correct),mety
+197_near,near,1942,NEAR,197,vicino,près,akaiky
+198_far,far,1406,FAR,198,lontano,loin,lavitra
+199_rightadj,right (adj.),1019,RIGHT,199,destra,droite,havanana
+200_leftadj,left (adj.),244,LEFT,200,sinistra,gauche,havia
+201_at,at,1461,AT,201,a,à,any
+202_in,in,1606,INSIDE,202,in,dans,anaty
+203_with,with,1340,WITH,203,con,avec,amin'ny
+204_and,and,1577,AND,204,e,et,sy
+205_if,if,1459,IF,205,se,si,raha
+206_because,because,1157,BECAUSE,206,perché,parce que,satria
+207_name,name,1405,NAME,207,nome,nom,anarana

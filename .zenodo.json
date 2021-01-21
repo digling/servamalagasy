@@ -1,0 +1,52 @@
+{
+    "title": "CLDF dataset derived from Serva's \"Dialects of Madagascar\" from 2020",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Maurizio Serva"
+        },
+        {
+            "name": "Michele Pasquini"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Johann-Mattis List",
+            "type": "Other"
+        },
+        {
+            "name": "Fabio Fromme",
+            "type": "Other"
+        },
+        {
+            "name": "Simone Pomikalek",
+            "type": "Other"
+        },
+        {
+            "name": "Janine Wieking",
+            "type": "Other"
+        },
+        {
+            "name": "Maurizio Serva",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Michele Pasquini",
+            "type": "DataCollector"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Serva M., Pasquini M. (2020): Dialects of Madagascar, PLoS ONE 15(10)</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
+}
