@@ -1,0 +1,208 @@
+NUMBER	ENGLISH	ITALIAN	FRENCH	MALAGASY	CONCEPTICON_ID	CONCEPTICON_GLOSS
+1	I	io	je	izaho	1209	I
+2	you (singular)	tu	tu	ianao	1215	THOU
+3	he	egli	il	izy	1211	HE
+4	we	noi	nous	isika	1212	WE
+5	you (plural)	voi	vous	ianareo	1213	YOU
+6	they	essi	ils	izy ireo	817	THEY
+7	this	questo	ceci	ity	1214	THIS
+8	that	quello	cela	izany	78	THAT
+9	here	qui	ici	eto	136	HERE
+10	there	li	là	ao	1937	THERE
+11	who	chi	qui	iza	1235	WHO
+12	what	che	que (qu'est-ce que; quoi)	inona	1236	WHAT
+13	where	dove	où	aiza	1237	WHERE
+14	when	quando	quand	oviana	1238	WHEN
+15	how	come	comment	ahoana	1239	HOW
+16	not	non	ne pas	tsy	1240	NOT
+17	all	tutto	tout	rehetra	98	ALL
+18	many	molti	beaucoup	betsaka	1198	MANY
+19	some	alcuni	quelques	vitsivitsy	1241	SOME
+20	few	poco	peu	kely	1242	FEW
+21	other	altro	autre	hafa	197	OTHER
+22	one	uno	un	iray	1493	ONE
+23	two	due	deux	roa	1498	TWO
+24	three	tre	trois	telo	492	THREE
+25	four	quattro	quatre	efatra	1500	FOUR
+26	five	cinque	cinq	dimy	493	FIVE
+27	big	grande	grand	lehibe	1202	BIG
+28	long	lungo	long	lava	1203	LONG
+29	wide	largo	large	malalaka	1243	WIDE
+30	thick	spesso	épais	matevina	1244	THICK
+31	heavy	pesante	lourd	mavesatra	1210	HEAVY
+32	small	piccolo	petit	kely	1246	SMALL
+33	short	corto	court	fohy	1645	SHORT
+34	narrow	stretto	étroit	tery	1267	NARROW
+35	thin	sottile	fin	manify		THIN
+36	woman	donna	femme	vehivavy	962	WOMAN
+37	man (adult male)	uomo	homme (mâle adulte)	lehilahy	1554	MAN
+38	man (human being)	uomo	homme (être humain)	olona	683	PERSON
+39	child	bambino	enfant	zaza	2099	CHILD
+40	wife	moglie	femme (épouse)	vady	1199	WIFE
+41	husband	marito	mari	vady	1200	HUSBAND
+42	mother	madre	mère	reny	1216	MOTHER
+43	father	padre	père	ray	1217	FATHER
+44	animal	animale	animal	biby	619	ANIMAL
+45	fish	pesce	poisson	trondro	227	FISH
+46	bird	uccello	oiseau	vorona	937	BIRD
+47	dog	cane	chien	alika	2009	DOG
+48	louse	pidocchio	pou	hao	1392	LOUSE
+49	snake	serpente	serpent	bibilava	730	SNAKE
+50	worm	verme	ver	kankana	1219	WORM
+51	tree	albero	arbre	hazo	906	TREE
+52	forest	foresta	forêt	ala	420	FOREST
+53	stick	bastone	bâton	kibay	1295	STICK
+54	fruit	frutta	fruit	voankazo	1507	FRUIT
+55	seed (semen)	seme	graine	voa	714	SEED
+56	leaf	foglia	feuille	ravina	628	LEAF
+57	root	radice	racine	faka	670	ROOT
+58	bark (of a tree)	corteccia	écorce	hodi-kazo	1204	BARK
+59	flower	fiore	fleur	voninkazo	239	FLOWER
+60	grass	erba	herbe	ahitra	606	GRASS
+61	rope	corda	corde	tady	1218	ROPE
+62	skin	pelle	peau	hoditra	763	SKIN
+63	meat	carne	viande	hena	634	MEAT
+64	blood	sangue	sang	ra	946	BLOOD
+65	bone	osso	os	taolana	1394	BONE
+66	fat (noun)	grasso	graisse (matière)	taviny	323	FAT (ORGANIC SUBSTANCE)
+67	egg	uovo	œuf	atody	744	EGG
+68	horn	corno	corne	tandroka	1393	HORN (ANATOMY)
+69	tail	coda	queue	rambo	1220	TAIL
+70	feather	penna	plume	volom-borona	1201	FEATHER
+71	hair (on the head)	capelli	cheveux	volo	2648	HAIR (HEAD)
+72	head	testa	tête	loha	1256	HEAD
+73	ear	orecchio	oreille	sofina	1247	EAR
+74	eye	occhio	œil	maso	1248	EYE
+75	nose	naso	nez	orona	1221	NOSE
+76	mouth	bocca	bouche	vava	674	MOUTH
+77	tooth	dente	dent	nify	1380	TOOTH
+78	tongue	lingua	langue	lela	1205	TONGUE
+79	fingernail	unghia	ongle	hoho	1258	FINGERNAIL
+80	foot	piede	pied	tongotra	1301	FOOT
+81	leg	gamba	jambe	ranjo	1297	LEG
+82	knee	ginocchio	genou	lohalika	1371	KNEE
+83	hand	mano	main	tanana	1277	HAND
+84	wing	ala	aile	elatra	1257	WING
+85	belly	pancia	ventre	kibo	1251	BELLY
+86	guts	interiora	entrailles	tsinay	1334	GUTS
+87	neck	collo	cou	vozona	1333	NECK
+88	back (of a person)	schiena	dos	lamosina	1291	BACK
+89	breast	petto	poitrine	tratra	1592	CHEST
+90	heart	cuore	cœur	fo	1223	HEART
+91	liver	fegato	foie	aty	1224	LIVER
+92	to drink	bere	boire	misotro	1401	DRINK
+93	to eat	mangiare	manger	mihinana	1336	EAT
+94	to bite	mordere	mordre	manaikitra	1403	BITE
+95	to suck	succhiare	sucer	mifiaka	1421	SUCK
+96	to spit	sputare	cracher	mandrehoka	1440	SPIT
+97	to vomit	vomitare	vomir	mandoa	1278	VOMIT
+98	to blow	soffiare	souffler	mitsoka	175	BLOW (OF WIND)
+99	to breathe	respirare	respirer	miaina	1407	BREATHE
+100	to laugh	ridere	rire	mihomehy	1355	LAUGH
+101	to see	vedere	voir	mahita	1409	SEE
+102	to hear	sentire	entendre	mihaino	1408	HEAR
+103	to know (facts)	sapere	savoir	mahay	1410	KNOW (SOMETHING)
+104	to think	pensare	penser	mieritreritra	2271	THINK
+105	to smell (perceive)	odorare (sentire)	sentir (par le nez)	manimbolo	2124	SMELL
+106	to fear	temere	craindre	matahotra	1419	FEAR (BE AFRAID)
+107	to sleep	dormire	dormir	matory	1585	SLEEP
+108	to live	vivere	vivre	velona	1422	BE ALIVE
+109	to die	morire	mourir	maty	1494	DIE
+110	to kill	uccidere	tuer	mamono	1417	KILL
+111	to fight	combattere	se battre	miady	1423	FIGHT
+112	to hunt	cacciare	chasser	mihaza	1435	HUNT
+113	to hit	colpire	frapper	mikapoka	353	STRIKE
+114	to cut	tagliare	couper	mandidy	1432	CUT
+115	to split	dividere	fendre (diviser)	mamaky	1437	SPLIT
+116	to stab	pugnalare	poignarder	manatsatoka antsy	1434	STAB
+117	to scratch	grattare	gratter	mikiky		SCRATCH
+118	to dig	scavare	creuser	mangady	1418	DIG
+119	to swim	nuotare	nager	milomano	1439	SWIM
+120	to fly	volare	voler	manidina	1441	FLY (MOVE THROUGH AIR)
+121	to walk (to go)	andare	aller	mandeha	695	GO
+122	to come	venire	venir	avy	1446	COME
+123	to lie (state; as in a bed)	stare sdraiato	être couche	mandry	215	LIE DOWN
+124	to sit (state)	stare seduto	être assis	mipetraka	1416	SIT
+125	to stand (state)	stare in piedi	être debout	mitsangana	1442	STAND
+126	to turn (intransitive)	girare	tourner	mihodina	1588	TURN
+127	to fall	cadere	tomber	mianjera	1280	FALL
+128	to give	dare	donner	manome	1447	GIVE
+129	to hold	tenere	tenir	mitantana	1448	HOLD
+130	to squeeze	spremere	presser (comme un citron)	manery	1414	SQUEEZE
+131	to rub	strofinare	frotter	manakasoka	1449	RUB
+132	to wash	lavare	laver	manasa	1453	WASH
+133	to wipe	asciugare	essuyer	mamafa	1454	WIPE
+134	to pull	tirare	tirer	mitifitra	1455	PULL
+135	to push	spingere	pousser	manosika	1452	PUSH
+136	to throw	lanciare	jeter (lancer)	manoraka	1456	THROW
+137	to tie	legare	lier	mamehy	1917	TIE
+138	to sew	cucire	coudre	manjaitra	1457	SEW
+139	to count	contare	compter	manisa	1420	COUNT
+140	to say	dire	dire	milaza	1458	SAY
+141	to sing	cantare	chanter	mihira	1261	SING
+142	to play	giocare	jouer	milalao	1413	PLAY
+143	to float	galleggiare	flotter	mitsinkafona	1574	FLOAT
+144	to flow	scorrere	couler	mikoriana	2003	FLOW
+145	to freeze	gelare	geler	mandry	1431	FREEZE
+146	to swell	gonfiare	gonfler	mibontsina	1573	SWELL
+147	sun	sole	soleil	masoandro	1343	SUN
+148	moon	luna	lune	volana	1313	MOON
+149	star	stella	étoile	kintana	1430	STAR
+150	water	acqua	eau	rano	948	WATER
+151	rain	pioggia	pluie	orana	658	RAIN (PRECIPITATION)
+152	river	fiume	rivière	renirano	666	RIVER
+153	lake	lago	lac	farihy	624	LAKE
+154	sea	mare	mer	ranomasina	1474	SEA
+155	salt	sale	sel	sira	1274	SALT
+156	stone	pietra	pierre	vato	857	STONE
+157	sand	sabbia	sable	fasika	671	SAND
+158	dust	polvere	poussière	vovoka	2	DUST
+159	earth	terra	terre	tany	1228	EARTH (SOIL)
+160	cloud	nuvola	nuage	rahona	1489	CLOUD
+161	fog	nebbia	brouillard	zavona	249	FOG
+162	sky	cielo	ciel	lanitra	1732	SKY
+163	wind	vento	vent	rivotra	960	WIND
+164	snow	neve	neige	ranomandry	784	SNOW
+165	ice	ghiaccio	glace	ranomandry	617	ICE
+166	smoke	fumo	fumée	setroka	778	SMOKE (EXHAUST)
+167	fire	fuoco	feu	afo	221	FIRE
+168	ash	cenere	cendre	lavenona	646	ASH
+169	to burn	bruciare	brûler	mandoro	2102	BURN
+170	road	strada	route	lalana	667	ROAD
+171	mountain	montagna	montagne	tendrombohitra	639	MOUNTAIN
+172	red	rosso	rouge	mena	156	RED
+173	green	verde	vert	maitso	1425	GREEN
+174	yellow	giallo	jaune	mavo	1424	YELLOW
+175	white	bianco	blanc	fotsy	1335	WHITE
+176	black	nero	noir	mainty	163	BLACK
+177	night	notte	nuit	alina	1233	NIGHT
+178	day	giorno	jour	andro	1225	DAY (NOT NIGHT)
+179	year	anno	an (année)	taona	1226	YEAR
+180	warm	caldo	chaud	mafana	1232	WARM
+181	cold	freddo	froid	mangatsiaka	1287	COLD
+182	full	pieno	plein	feno	1429	FULL
+183	new	nuovo	nouveau	vaovao	1231	NEW
+184	old	vecchio	vieux	antitra	1229	OLD
+185	good	buono	bon	tsara	1035	GOOD
+186	bad	cattivo	mauvais	ratsy	1292	BAD
+187	rotten	marcio	pourri	lo	1728	ROTTEN
+188	dirty	sporco	sale	maloto	1230	DIRTY
+189	straight	dritto	droit	mahitsy	1404	STRAIGHT
+190	round	rotondo	rond	boribory	1395	ROUND
+191	sharp (as a knife)	affilato	tranchant	maranitra	1396	SHARP
+192	dull (as a knife)	smussato	émoussé	dombo	379	BLUNT
+193	smooth	liscio	lisse	malama	1234	SMOOTH
+194	wet	bagnato	mouillé	mando	1726	WET
+195	dry	secco	sec	maina	1398	DRY
+196	correct (just; right)	giusto	juste (correct)	mety	1725	CORRECT (RIGHT)
+197	near	vicino	près	akaiky	1942	NEAR
+198	far	lontano	loin	lavitra	1406	FAR
+199	right (adj.)	destra	droite	havanana	1019	RIGHT
+200	left (adj.)	sinistra	gauche	havia	244	LEFT
+201	at	a	à	any	1461	AT
+202	in	in	dans	anaty	1606	INSIDE
+203	with	con	avec	amin'ny	1340	WITH
+204	and	e	et	sy	1577	AND
+205	if	se	si	raha	1459	IF
+206	because	perché	parce que	satria	1157	BECAUSE
+207	name	nome	nom	anarana	1405	NAME
