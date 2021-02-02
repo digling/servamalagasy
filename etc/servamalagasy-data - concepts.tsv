@@ -33,7 +33,7 @@ NUMBER	ENGLISH	ITALIAN	FRENCH	MALAGASY	CONCEPTICON_ID	CONCEPTICON_GLOSS
 32	small	piccolo	petit	kely	1246	SMALL
 33	short	corto	court	fohy	1645	SHORT
 34	narrow	stretto	étroit	tery	1267	NARROW
-35	thin	sottile	fin	manify		THIN
+35	thin	sottile	fin	manify	2249	THIN
 36	woman	donna	femme	vehivavy	962	WOMAN
 37	man (adult male)	uomo	homme (mâle adulte)	lehilahy	1554	MAN
 38	man (human being)	uomo	homme (être humain)	olona	683	PERSON
@@ -115,7 +115,7 @@ NUMBER	ENGLISH	ITALIAN	FRENCH	MALAGASY	CONCEPTICON_ID	CONCEPTICON_GLOSS
 114	to cut	tagliare	couper	mandidy	1432	CUT
 115	to split	dividere	fendre (diviser)	mamaky	1437	SPLIT
 116	to stab	pugnalare	poignarder	manatsatoka antsy	1434	STAB
-117	to scratch	grattare	gratter	mikiky		SCRATCH
+117	to scratch	grattare	gratter	mikiky	1436	SCRATCH
 118	to dig	scavare	creuser	mangady	1418	DIG
 119	to swim	nuotare	nager	milomano	1439	SWIM
 120	to fly	volare	voler	manidina	1441	FLY (MOVE THROUGH AIR)
