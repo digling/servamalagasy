@@ -1,0 +1,105 @@
+Grapheme	IPA	Examples	Languages	Frequence	Codepoints
+^mp	ⁿp
+mp	ⁿp
+^mb	ⁿb
+mb	ⁿb
+^nt	ⁿt
+nt	ⁿt
+^nd	ⁿd
+nd	ⁿd
+^nk	ⁿk
+nk	ⁿk
+^ng	ⁿg
+gn	ŋ
+^gn	ŋ
+ng	ⁿg
+oa	oa/o
+^oa	oa/o
+ai	ai̯
+ao	au̯
+ia	ia
+io	iu
+ie	ie
+oe	ue
+oi	ui
+^ai	ai̯
+^ao	au̯
+^ia	j a
+^io	iu
+^ie	ie
+^oe	ue
+^oi	ui
+nts	ⁿts
+^nts	ⁿts
+nj	ⁿdz
+^nj	ⁿdz
+tr	ʈʂ
+dr	ɖʐ
+^tr	ʈʂ
+^dr	ɖʐ
+ntr	ⁿʈʂ
+ndr	ⁿɖʐ
+^ntr	ⁿʈʂ
+^ndr	ⁿɖʐ
+$	NULL				
+^	NULL				
+^a	a	aia, amboa	SihanakaAmbatondrazaka, AntankaranaAmbilobe, SakalavaAmbanja, AntandroyAmbovombe, MahafalyAmpanihy	100	U+005e U+0061
+^a$	a	a	SakalavaMahajanga	1	U+005e U+0061 U+0024
+^b	b	boribory, biby	SakalavaMaintirano, SakalavaMahajanga, MikeaAmpoakafo, BetsimisarakaMahanoro, AntambohoakaMananjary, ZafisoroFarafangana, SihanakaAmbatondrazaka, BetsimisarakaFenoarivo-Est, BetsileoFianarantsoa, BaraBetroka, MahafalyAmpanihy, AntaimoroManakara, TsimihetyMandritsara, SakalavaAmbanja, BetsimisarakaAntalaha, AntandroyAmbovombe, AntankaranaAmbilobe, MerinaAntananarivo, MasikoroMiary	100	U+005e U+0062
+^d	d	dimy, dombo	SihanakaMoraranoChrome, NosyBorahaAmbodifotatra, SihanakaAmbatondrazaka, MerinaMaevatanana, BetsimisarakaAntalaha, AntaisakaVangaindrano, BetsimisarakaFenoarivo-Est, AntambohoakaMananjary, AntandroyAmbovombe, BaraBetroka, BaraRanohira, TanalaIfanadiana, AntanosyTolagnaro, SakalavaMorondava, BetsimisarakaMaroantsetra, BetsimisarakaBrickaville, SakalavaBesalampy, TsimihetyAndapa, TsimihetyAntsohihy, BetsimisarakaMahanoro, BetsileoAmbositra, BetsileoFianarantsoa, BetsileoAmbalavao, TsimihetyMampikony, AntanosyBezaha, BaraBeroroha, BetsimisarakaToamasina, SakalavaMahajanga, BetsimisarakaMananara, MahafalyAmpanihy, BaraIhosy, AntaimoroManakara, TsimihetyMandritsara, SakalavaMiandrivazo, MerinaAntananarivo, BetsimisarakaTanambaoManampotsy, AntankaranaVohemar, BetsimisarakaMarolambo, AntanalanaAnakao, MerinaAnalavory, BetsileoAmbohimahasoa, VezoMorondava, BetsimisarakaAntsiranana, AntanalanaItampolo, SakalavaMaintirano, AntankaranaAmbilobe, SakalavaAmbanja, ZafisoroFarafangana	100	U+005e U+0064
+^e	e	eto, efatra	ZafisoroFarafangana, AntaisakaVangaindrano, AntambohoakaMananjary, AntanosyBezaha, TanalaIfanadiana, AntanosyTolagnaro, AntanalanaManorofify, SihanakaAmbatondrazaka, AntankaranaVohemar, BetsileoAmbositra, BetsimisarakaFenoarivo-Est, BetsileoFianarantsoa, AntandroyAmbovombe, BaraBetroka, BaraRanohira, SakalavaMahajanga, MahafalyAmpanihy, AntandroyToliara, MikeaAmpoakafo, AntaimoroManakara, AntanalanaItampolo, SakalavaMaintirano, SakalavaMorondava, AntankaranaAmbilobe, MasikoroMiary, MerinaAntananarivo, VezoToliara, BetsimisarakaMahanoro, BetsimisarakaAntalaha, BetsileoAmbalavao, VezoMorombe, SakalavaAmbanja, AntanalanaAnakao, TsimihetyMandritsara	100	U+005e U+0065
+^f	f	fo, feno	AntandroyAmbovombe, BetsimisarakaMahanoro, AntankaranaAmbilobe, SakalavaAmbanja, MahafalyAmpanihy, BetsimisarakaFenoarivo-Est, MerinaAntananarivo, SihanakaAmbatondrazaka, BaraBetroka, BetsileoFianarantsoa, MikeaAmpoakafo, BetsimisarakaAntalaha, ZafisoroFarafangana, SakalavaMaintirano	100	U+005e U+0066
+^g	g	gilasy, glasy	BetsimisarakaMananara, BetsimisarakaFenoarivo-Est, TsimihetyMampikony, SakalavaBesalampy, AntanalanaAnakao, TsimihetyAndapa, TsimihetyMandritsara, SakalavaMaintirano, BetsileoAmbalavao, SakalavaMiandrivazo, SihanakaAmbatondrazaka, TsimihetyAntsohihy, BaraIhosy, AntaisakaVangaindrano, AntankaranaVohemar, BetsileoAmbositra, VezoMorondava, BetsimisarakaAntalaha	22	U+005e U+0067
+^h	h	hao, hafa	BaraBetroka, MikeaAmpoakafo, MahafalyAmpanihy, AntandroyAmbovombe, BetsimisarakaAntalaha, MerinaAntananarivo, SakalavaAmbanja, AntankaranaAmbilobe, ZafisoroFarafangana, BetsimisarakaFenoarivo-Est, SihanakaAmbatondrazaka	100	U+005e U+0068
+^i	i	ino, izy	MahafalyAmpanihy, MerinaAntananarivo, ZafisoroFarafangana, AntandroyAmbovombe, SihanakaAmbatondrazaka, AntankaranaAmbilobe, BaraBetroka, SakalavaMaintirano, BetsimisarakaAntalaha, BetsimisarakaFenoarivo-Est, MikeaAmpoakafo, BetsimisarakaMahanoro, SakalavaAmbanja, BetsileoFianarantsoa	100	U+005e U+0069
+^i$	i	i	SakalavaBesalampy, BetsileoFianarantsoa, SakalavaMaintirano, BetsileoAmbalavao, BaraIhosy, BaraRanohira, BaraBeroroha, VezoMorondava	8	U+005e U+0069 U+0024
+^j	dz	jiaby, jofo	TsimihetyAntsohihy, AntankaranaVohemar, TsimihetyMampikony, AntankaranaAmbilobe, SakalavaAmbanja, BetsimisarakaAntsiranana, TsimihetyMandritsara, TsimihetyAndapa, BetsimisarakaAntalaha, BetsimisarakaFenoarivo-Est, BetsimisarakaMananara, SakalavaMahajanga, MikeaAmpoakafo, SakalavaBesalampy, NosyBorahaAmbodifotatra, SihanakaAndilamena, BetsimisarakaTanambaoManampotsy, MerinaMaevatanana, AntanalanaAnakao, BetsileoAmbalavao, BetsimisarakaToamasina, VezoMorondava, SihanakaMoraranoChrome, VezoMorombe, SakalavaMorondava, BetsimisarakaMaroantsetra, BetsimisarakaBrickaville, MasikoroMiary	53	U+005e U+006a
+^k	k	kakazo, kobay	SakalavaMahajanga, SakalavaMaintirano, MerinaAntananarivo, BetsimisarakaMahanoro, AntankaranaVohemar, BetsimisarakaFenoarivo-Est, BetsileoFianarantsoa, AntambohoakaMananjary, AntandroyAmbovombe, SihanakaAmbatondrazaka, BaraBetroka, MahafalyAmpanihy, MikeaAmpoakafo, AntanosyTolagnaro, SakalavaAmbanja, MasikoroMiary, AntaisakaVangaindrano, AntaimoroManakara, AntankaranaAmbilobe, BetsileoAmbositra, BetsimisarakaAntalaha, TsimihetyMandritsara, SakalavaMorondava, ZafisoroFarafangana, VezoToliara	100	U+005e U+006b
+^l	l	lava, lela	SakalavaAmbanja, BetsimisarakaAntalaha, AntankaranaAmbilobe, MahafalyAmpanihy, SihanakaAmbatondrazaka, AntandroyAmbovombe, MikeaAmpoakafo, MerinaAntananarivo	100	U+005e U+006c
+^m	m	mandry, mahay	SakalavaAmbanja, SihanakaAmbatondrazaka	100	U+005e U+006d
+^mh	mh/m	mhina	BetsimisarakaAntsiranana	1	U+005e U+006d U+0068
+^mm	mm/m	mmanara	BetsileoAmbohimahasoa	1	U+005e U+006d U+006d
+^n	n	nify, nareo	AntanalanaAnakao, TsimihetyMampikony, AntandroyAmbovombe, SakalavaMahajanga, MahafalyAmpanihy, VezoMorombe, SakalavaAmbanja, AntanalanaManorofify, SihanakaAmbatondrazaka, AntankaranaVohemar, BetsileoAmbalavao, BetsimisarakaToamasina, AntandroyToliara, AntanalanaItampolo, SakalavaMaintirano, SakalavaMiandrivazo, AntankaranaAmbilobe, TsimihetyAndapa, NosyBorahaAmbodifotatra, BetsileoAmbositra, BetsimisarakaAntalaha, BetsimisarakaFenoarivo-Est, BetsileoFianarantsoa, AntanosyBezaha, VezoMorondava, MikeaAmpoakafo, BaraIhosy, AntanosyTolagnaro, TsimihetyMandritsara, SakalavaMorondava, VezoToliara, BetsimisarakaMahanoro, AntaisakaVangaindrano, BetsimisarakaMarolambo, AntambohoakaMananjary, BaraBetroka, BaraRanohira, BetsimisarakaMananara, BetsimisarakaAntsiranana, TanalaIfanadiana, AntaimoroManakara, BetsimisarakaBrickaville, MasikoroMiary, MerinaAntananarivo, ZafisoroFarafangana	100	U+005e U+006e
+^o	u	olo, oro	BetsimisarakaMahanoro, SihanakaAmbatondrazaka, AntaisakaVangaindrano, BaraBetroka, SakalavaMahajanga, AntanosyTolagnaro, AntaimoroManakara, MasikoroMiary, VezoToliara, BetsimisarakaFenoarivo-Est, BetsileoFianarantsoa, AntambohoakaMananjary, AntandroyAmbovombe, MahafalyAmpanihy, SakalavaMaintirano, SakalavaMorondava, AntankaranaAmbilobe, MerinaAntananarivo, ZafisoroFarafangana, BetsimisarakaAntalaha, MikeaAmpoakafo, SakalavaAmbanja, AntankaranaVohemar, TsimihetyMandritsara	100	U+005e U+006f
+^o$	u	o	BetsimisarakaTanambaoManampotsy, BetsimisarakaMarolambo	2	U+005e U+006f U+0024
+^p	p	pokopoko, papa	BaraIhosy, ZafisoroFarafangana, AntaisakaVangaindrano, BaraRanohira, AntanosyBelamoty, SakalavaBesalampy, TsimihetyAndapa, SihanakaAndilamena, SihanakaAmbatondrazaka, BetsimisarakaTanambaoManampotsy, AntanosyBezaha, BaraBetroka, MikeaAmpoakafo, SakalavaAmbanja, AntanosyTolagnaro, BetsimisarakaToamasina, BetsimisarakaAntalaha	24	U+005e U+0070
+^r	r	rano, ratsy	MerinaAntananarivo, AntandroyAmbovombe, SihanakaAmbatondrazaka, MahafalyAmpanihy, MikeaAmpoakafo, BaraBetroka, BetsimisarakaAntalaha, AntankaranaAmbilobe, SakalavaAmbanja, ZafisoroFarafangana	100	U+005e U+0072
+^s	s	sira, satria	AntandroyAmbovombe, MahafalyAmpanihy, SakalavaMaintirano, MasikoroMiary, SihanakaAmbatondrazaka, BetsileoFianarantsoa, BaraBetroka, SakalavaMorondava, SakalavaMahajanga, AntaimoroManakara, MerinaAntananarivo, ZafisoroFarafangana, BetsimisarakaMahanoro, MikeaAmpoakafo, TsimihetyMandritsara, BetsimisarakaFenoarivo-Est, AntanosyTolagnaro, AntankaranaAmbilobe, SakalavaAmbanja, BetsimisarakaAntalaha, AntambohoakaMananjary	100	U+005e U+0073
+^t	t	telo, tratra	MahafalyAmpanihy, MerinaAntananarivo, SihanakaAmbatondrazaka, BetsimisarakaAntalaha, MikeaAmpoakafo, AntankaranaAmbilobe, AntandroyAmbovombe, SakalavaAmbanja, BaraBetroka	100	U+005e U+0074
+^ts	ts	tsy, tsara	MikeaAmpoakafo, VezoToliara, AntankaranaVohemar, SakalavaMorondava, AntankaranaAmbilobe, SakalavaAmbanja, MasikoroMiary, BaraBetroka, SakalavaMahajanga, AntanalanaItampolo, TsimihetyMandritsara, SihanakaAmbatondrazaka, BetsimisarakaFenoarivo-Est, BetsileoFianarantsoa, BetsileoAmbalavao, AntambohoakaMananjary, AntandroyAmbovombe, MahafalyAmpanihy, SakalavaMaintirano, MerinaAntananarivo, BetsimisarakaMahanoro, BetsileoAmbositra, BetsimisarakaAntalaha, AntaisakaVangaindrano, AntanosyTolagnaro, AntaimoroManakara, ZafisoroFarafangana, VezoMorombe	100	U+005e U+0074 U+0073
+^v	v	vady, valy	MahafalyAmpanihy, SihanakaAmbatondrazaka, AntandroyAmbovombe, MikeaAmpoakafo, AntankaranaAmbilobe, SakalavaAmbanja, BetsimisarakaAntalaha	100	U+005e U+0076
+^z	z	zaho, zavo	BetsimisarakaMahanoro, TsimihetyMandritsara, BetsimisarakaBrickaville, BetsimisarakaAntalaha, AntaisakaVangaindrano, BetsimisarakaFenoarivo-Est, AntanosyBezaha, BaraBetroka, BaraRanohira, SakalavaAmbanja, AntankaranaVohemar, BetsimisarakaMarolambo, AntambohoakaMananjary, SakalavaMahajanga, BetsimisarakaAntsiranana, AntaimoroManakara, SakalavaMorondava, AntankaranaAmbilobe, VezoToliara, SihanakaAmbatondrazaka, AntanalanaAnakao, BetsileoFianarantsoa, BetsileoAmbalavao, TanalaIfanadiana, MikeaAmpoakafo, AntanosyTolagnaro, SakalavaMaintirano, VezoMorombe, MasikoroMiary, MerinaAntananarivo, ZafisoroFarafangana, AntanalanaManorofify, BetsileoAmbositra, AntandroyAmbovombe, MahafalyAmpanihy, AntandroyToliara	100	U+005e U+007a
+_	_	amin ny, mitomboke meso	AntandroyToliara, BetsimisarakaMahanoro, AntambohoakaMananjary, AntandroyAmbovombe, ZafisoroFarafangana, SihanakaAmbatondrazaka, BetsimisarakaMarolambo, AntanosyTolagnaro, MasikoroMiary, BetsimisarakaAntalaha, TanalaIfanadiana, AntaimoroManakara, AntankaranaAmbilobe, MerinaAntananarivo, AntankaranaVohemar, BetsileoAmbositra, BetsileoFianarantsoa, BetsileoAmbalavao, AntanosyBezaha, BaraBetroka, BetsimisarakaToamasina, SakalavaMahajanga, BetsimisarakaAntsiranana, MahafalyAmpanihy, AntanalanaItampolo, SakalavaMaintirano, TsimihetyMandritsara, VezoMorombe, SakalavaMorondava, BetsimisarakaBrickaville, SakalavaAmbanja, VezoToliara, AntanalanaManorofify, AntaisakaVangaindrano, AntanalanaAnakao, BetsimisarakaFenoarivo-Est, BaraRanohira, BetsimisarakaMananara, MikeaAmpoakafo	100	U+005f
+a	a	manapaka, hodikakazo	SakalavaAmbanja	100	U+0061
+a$	a	bibilava, hafa	SakalavaAmbanja, SihanakaAmbatondrazaka	100	U+0061 U+0024
+aa$	aː	mandiaa	BetsimisarakaTanambaoManampotsy	1	U+0061 U+0061 U+0024
+b	b	boribory, biby	MahafalyAmpanihy, MikeaAmpoakafo, AntandroyAmbovombe, SihanakaAmbatondrazaka, SakalavaAmbanja, AntankaranaAmbilobe, BetsimisarakaAntalaha	100	U+0062
+c	c	miconty	BetsimisarakaAntsiranana	1	U+0063
+d	d	vady, mandoa	AntankaranaAmbilobe, SakalavaAmbanja, SihanakaAmbatondrazaka, AntandroyAmbovombe, MahafalyAmpanihy	100	U+0064
+e	e	hely, lela	SakalavaAmbanja, AntankaranaAmbilobe, SihanakaAmbatondrazaka	100	U+0065
+e$	e	aroe, ranomivongagne	AntandroyAmbovombe, SakalavaAmbanja, AntankaranaAmbilobe, SihanakaAmbatondrazaka	100	U+0065 U+0024
+ee$	ee/e	agnatee	AntandroyTsihombe	1	U+0065 U+0065 U+0024
+f	f	hafa, mafana	MahafalyAmpanihy, SihanakaAmbatondrazaka, AntandroyAmbovombe, BetsimisarakaAntalaha, MerinaAntananarivo, SakalavaAmbanja, BaraBetroka, AntankaranaAmbilobe, MikeaAmpoakafo	100	U+0066
+g	g	magnangy, angofo	SakalavaAmbanja, AntankaranaAmbilobe, SihanakaAmbatondrazaka	100	U+0067
+h	h	loha, mahay	AntandroyAmbovombe, SakalavaAmbanja, AntankaranaAmbilobe, SihanakaAmbatondrazaka, MahafalyAmpanihy	100	U+0068
+i	i	mitifitry, migiaka	SakalavaAmbanja, SihanakaAmbatondrazaka	100	U+0069
+ii	iː/i	miisa, miinana	BetsimisarakaTanambaoManampotsy, SakalavaBeloniTsiribihina, SakalavaMaintirano	5	U+0069 U+0069
+j	dz	mijanjy, ranjo	VezoMorombe, AntandroyAmbovombe, AntanalanaItampolo, SakalavaMaintirano, MahafalyAmpanihy, VezoToliara, MikeaAmpoakafo, MasikoroMiary, AntanalanaManorofify, SihanakaAmbatondrazaka, BetsileoAmbositra, SakalavaMorondava, AntankaranaVohemar, AntankaranaAmbilobe, MerinaAntananarivo, BetsimisarakaFenoarivo-Est, BetsileoFianarantsoa, BetsileoAmbalavao, AntambohoakaMananjary, AntanosyBezaha, TanalaIfanadiana, AntanosyTolagnaro, TsimihetyMandritsara, SakalavaAmbanja, BetsimisarakaMahanoro, BetsimisarakaAntalaha, AntaisakaVangaindrano, SakalavaMahajanga, AntaimoroManakara, ZafisoroFarafangana	100	U+006a
+k	k	kakazo, voankazo	SihanakaAmbatondrazaka, SakalavaAmbanja, AntankaranaAmbilobe	100	U+006b
+l	l	malalaka, telo	SakalavaAmbanja, AntankaranaAmbilobe, SihanakaAmbatondrazaka, AntandroyAmbovombe	100	U+006c
+m	m	mamono, mamaky	MahafalyAmpanihy, AntandroyAmbovombe, SihanakaAmbatondrazaka, AntankaranaAmbilobe, SakalavaAmbanja, MikeaAmpoakafo	100	U+006d
+n	n	tegnandrano, mandry	SakalavaAmbanja	100	U+006e
+nn	nn/n	miaraka aminny, mitinndry	BetsimisarakaMarolambo, VezoMorombe	2	U+006e U+006e
+ns	n s	menso, ansena	BetsimisarakaMarolambo, BetsimisarakaSahavato, AntanosyTolagnaro, BetsimisarakaTanambaoManampotsy, AntanosyBezaha	9	U+006e U+0073
+o	o	volomborona, volomborogno	SakalavaAmbanja, SihanakaAmbatondrazaka	100	U+006f
+o$	o	eto, maloto	SakalavaAmbanja, SihanakaAmbatondrazaka, AntankaranaAmbilobe	100	U+006f U+0024
+oo$	oo/o	tamboo	BetsimisarakaBrickaville	1	U+006f U+006f U+0024
+p	p	mipetraka, ampela	VezoToliara, MahafalyAmpanihy, SihanakaAmbatondrazaka, SakalavaMorondava, SakalavaAmbanja, AntankaranaVohemar, MikeaAmpoakafo, AntaimoroManakara, AntankaranaAmbilobe, MasikoroMiary, BaraBetroka, SakalavaMahajanga, BetsimisarakaMahanoro, AntaisakaVangaindrano, AntambohoakaMananjary, AntanosyTolagnaro, TsimihetyMandritsara, ZafisoroFarafangana, BetsimisarakaAntalaha, BetsimisarakaFenoarivo-Est, BetsileoFianarantsoa, BetsileoAmbalavao, AntandroyAmbovombe, SakalavaMaintirano, MerinaAntananarivo, BetsileoAmbositra, AntanalanaItampolo	100	U+0070
+r	r	tratra, mieritreritra	SakalavaAmbanja, SihanakaAmbatondrazaka	100	U+0072
+s	s	manasa, maso	SihanakaAmbatondrazaka, MikeaAmpoakafo, MahafalyAmpanihy, AntandroyAmbovombe, BetsimisarakaAntalaha, AntankaranaAmbilobe, SakalavaAmbanja, MerinaAntananarivo	100	U+0073
+t	t	mitifitry, mamatotra	SihanakaAmbatondrazaka, SakalavaAmbanja, AntankaranaAmbilobe	100	U+0074
+ts	ts	maitso, manintsy	AntandroyAmbovombe, MikeaAmpoakafo, MahafalyAmpanihy, SihanakaAmbatondrazaka, AntankaranaAmbilobe, SakalavaAmbanja, BetsimisarakaAntalaha	100	U+0074 U+0073
+v	v	lava, ankavia	SihanakaAmbatondrazaka, AntankaranaAmbilobe, AntandroyAmbovombe, SakalavaAmbanja, MahafalyAmpanihy	100	U+0076
+y	y/i	mitomboky mesa, mitomboky meso	SihanakaAmbatondrazaka, AntankaranaVohemar, BetsimisarakaAntalaha, AntanosyTolagnaro, MasikoroMiary, ZafisoroFarafangana, NosyBorahaAmbodifotatra, BetsimisarakaTanambaoManampotsy, TsimihetyAntsohihy, AntaisakaVangaindrano, AntanosyBelamoty, AntambohoakaMananjary, AntanosyBezaha, BaraBetroka, BaraRanohira, BaraBeroroha, VezoMorondava, SakalavaMahajanga, BetsimisarakaMananara, SihanakaMoraranoChrome, MahafalyAmpanihy, TanalaIfanadiana, BaraIhosy, AntanalanaItampolo, SakalavaMaintirano, TsimihetyMandritsara, SakalavaMiandrivazo, SakalavaMorondava, AntankaranaAmbilobe, BetsimisarakaMaroantsetra, SakalavaAmbanja, MerinaAntananarivo	38	U+0079
+y$	y/i	vady, mandry	SakalavaAmbanja, SihanakaAmbatondrazaka	100	U+0079 U+0024
+z	z	izy, voankazo	MerinaAntananarivo, SihanakaAmbatondrazaka, BetsimisarakaAntalaha, AntankaranaAmbilobe, ZafisoroFarafangana, SakalavaAmbanja, BaraBetroka, BetsimisarakaFenoarivo-Est, MikeaAmpoakafo, AntandroyAmbovombe, MahafalyAmpanihy	100	U+007a

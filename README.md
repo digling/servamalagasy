@@ -2,14 +2,14 @@
 
 Cite the source dataset as
 
-> Serva M., Pasquini M. (2020): Dialects of Madagascar, PLoS ONE 15(10)
+> Serva M., Pasquini M. (2020): Dialects of Madagascar, PLoS ONE 15(10).
 
 This dataset is licensed under a CC-BY-4.0 license
 
 ## Statistics
 
 
-![Glottolog: 70%](https://img.shields.io/badge/Glottolog-70%25-yellow.svg "Glottolog: 70%")
+![Glottolog: 68%](https://img.shields.io/badge/Glottolog-68%25-orange.svg "Glottolog: 68%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
@@ -22,8 +22,15 @@ This dataset is licensed under a CC-BY-4.0 license
 - **Synonymy:** 1.00
 - **Invalid lexemes:** 0
 - **Tokens:** 66,326
-- **Segments:** 53 (0 BIPA errors, 0 CTLS sound class errors, 53 CLTS modified)
+- **Segments:** 53 (0 BIPA errors, 0 CTLS sound class errors, 51 CLTS modified)
 - **Inventory size (avg):** 40.70
+
+## Possible Improvements:
+
+- Languages linked to [bookkeeping languoids in Glottolog](http://glottolog.org/glottolog/glottologinformation#bookkeepinglanguoids):
+  - Betsimisaraka [sout3125](http://glottolog.org/resource/languoid/id/sout3125)
+
+
 
 # Contributors
 

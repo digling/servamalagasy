@@ -1,7 +1,7 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
-    "dc:bibliographicCitation": "Serva M., Pasquini M. (2020): Dialects of Madagascar, PLoS ONE 15(10)",
+    "dc:bibliographicCitation": "Serva M., Pasquini M. (2020): Dialects of Madagascar, PLoS ONE 15(10).",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
@@ -14,31 +14,31 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/digling/servamalagasy",
-            "dc:created": "345bf26"
+            "dc:created": "b3f86ca"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
-            "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.3-treedb-fixes-295-g07a99daf858"
+            "rdf:about": "https://github.com/glottolog/glottolog/",
+            "dc:created": "v4.3"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.4.0-42-g6577a61"
+            "dc:created": "v2.4.0"
         },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "CLTS",
             "rdf:about": "https://github.com/cldf-clts/clts/",
-            "dc:created": "v1.4"
+            "dc:created": "v2.0.0"
         }
     ],
     "prov:wasGeneratedBy": [
         {
             "dc:title": "python",
-            "dc:description": "3.8.7"
+            "dc:description": "3.9.2"
         },
         {
             "dc:title": "python-packages",

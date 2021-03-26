@@ -45,7 +45,7 @@
         }
     ],
     "upload_type": "dataset",
-    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Serva M., Pasquini M. (2020): Dialects of Madagascar, PLoS ONE 15(10)</p>\n</blockquote>",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Serva M., Pasquini M. (2020): Dialects of Madagascar, PLoS ONE 15(10).</p>\n</blockquote>",
     "license": {
         "id": "CC-BY-4.0"
     }
