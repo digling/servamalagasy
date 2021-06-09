@@ -1,11 +1,20 @@
 # CLDF dataset derived from Serva's "Dialects of Madagascar" from 2020
 
-Cite the source dataset as
+## How to cite
 
-> Serva M., Pasquini M. (2020): Dialects of Madagascar, PLoS ONE 15(10).
+If you use these data please cite
+- the original source
+  > Serva M., Pasquini M. (2020): Dialects of Madagascar, PLoS ONE 15(10).
+- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
+
+## Description
+
 
 This dataset is licensed under a CC-BY-4.0 license
 
+
+Conceptlists in Concepticon:
+- [Serva-2020-207](https://concepticon.clld.org/contributions/Serva-2020-207)
 ## Statistics
 
 
@@ -44,3 +53,10 @@ Maurizio Serva     |             | data collector | DataCollector, Author
 Michele Pasquini   |             | data collector | DataCollector, Author
 
 
+
+
+## CLDF Datasets
+
+The following CLDF datasets are available in [cldf](cldf):
+
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)

@@ -33,7 +33,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number,Italian_Gloss,French_Gloss,Malag
 32_small,small,1246,SMALL,32,piccolo,petit,kely
 33_short,short,1645,SHORT,33,corto,court,fohy
 34_narrow,narrow,1267,NARROW,34,stretto,étroit,tery
-35_thin,thin,743,END (OF TIME),35,sottile,fin,manify
+35_thin,thin,2308,THIN,35,sottile,fin,manify
 36_woman,woman,962,WOMAN,36,donna,femme,vehivavy
 37_manadultmale,man (adult male),1554,MAN,37,uomo,homme (mâle adulte),lehilahy
 38_manhumanbeing,man (human being),683,PERSON,38,uomo,homme (être humain),olona
@@ -200,7 +200,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number,Italian_Gloss,French_Gloss,Malag
 199_rightadj,right (adj.),1019,RIGHT,199,destra,droite,havanana
 200_leftadj,left (adj.),244,LEFT,200,sinistra,gauche,havia
 201_at,at,1461,AT,201,a,à,any
-202_in,in,1606,INSIDE,202,in,dans,anaty
+202_in,in,1460,IN,202,in,dans,anaty
 203_with,with,1340,WITH,203,con,avec,amin'ny
 204_and,and,1577,AND,204,e,et,sy
 205_if,if,1459,IF,205,se,si,raha

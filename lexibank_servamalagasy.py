@@ -28,30 +28,25 @@ class Dataset(BaseDataset):
     id = "servamalagasy"
     concept_class = CustomConcept
     language_class = CustomLanguage
-    #form_spec = FormSpec(
-    #        missing_data=("---", ),
-    #        separators="/",
-    #        replacements=[(" ", "_")]
-    #        )
 
     def cmd_makecldf(self, args):
         """
         Convert the raw data to a CLDF dataset.
         """
         concepts = {}
-        for concept in self.concepts:
-            cid = '{0}_{1}'.format(concept['NUMBER'], slug(concept['ENGLISH']))
+        for concept in self.conceptlists[0].concepts.values():
+            cid = '{0}_{1}'.format(concept.number, slug(concept.english))
             args.writer.add_concept(
                     ID=cid,
-                    Name=concept['ENGLISH'],
-                    Number=concept['NUMBER'],
-                    Italian_Gloss=concept['ITALIAN'],
-                    French_Gloss=concept['FRENCH'],
-                    Malagasy_Gloss=concept['MALAGASY'],
-                    Concepticon_ID=concept['CONCEPTICON_ID'],
-                    Concepticon_Gloss=concept['CONCEPTICON_GLOSS']
+                    Name=concept.english,
+                    Number=concept.number,
+                    Italian_Gloss=concept.attributes["italian"],
+                    French_Gloss=concept.attributes["french"],
+                    Malagasy_Gloss=concept.attributes["malagasy"], 
+                    Concepticon_ID=concept.concepticon_id,
+                    Concepticon_Gloss=concept.concepticon_gloss
                     )
-            concepts[concept['FRENCH']] = cid
+            concepts[concept.attributes['french']] = cid
         languages = {}
         for language in self.languages:
             args.writer.add_language(
