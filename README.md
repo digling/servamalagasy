@@ -1,5 +1,7 @@
 # CLDF dataset derived from Serva's "Dialects of Madagascar" from 2020
 
+[![CLDF validation](https://github.com/digling/servamalagasy/workflows/CLDF-validation/badge.svg)](https://github.com/digling/servamalagasy/actions?query=workflow%3ACLDF-validation)
+
 ## How to cite
 
 If you use these data please cite
@@ -18,6 +20,7 @@ Conceptlists in Concepticon:
 ## Statistics
 
 
+[![CLDF validation](https://github.com/digling/servamalagasy/workflows/CLDF-validation/badge.svg)](https://github.com/digling/servamalagasy/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 68%](https://img.shields.io/badge/Glottolog-68%25-orange.svg "Glottolog: 68%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
