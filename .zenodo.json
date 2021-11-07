@@ -1,0 +1,21 @@
+{
+    "title": "CLDF dataset derived from Serva et al.'s \"Malagasy dialects and the peopling of Madagascar\" from 2011",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": ""
+        }
+    ],
+    "contributors": [],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Maurizio Serva, Filippo Petroni, Dima Volchenkov, and S\u00f8ren Wichmann (2011): Malagasy dialects and the peopling of Madagascar. Journal of the Royal Society, Interface*, 9(66): 54\u201367.</p>\n</blockquote>"
+}
