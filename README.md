@@ -1,8 +1,14 @@
-# Malagasy dialects and the peopling of Madagascar
+# CLDF dataset derived from Serva et al.'s "Malagasy dialects and the peopling of Madagascar" from 2011
 
-Cite the source dataset as
+## How to cite
 
-> Maurizio Serva, Filippo Petroni, Dima Volchenkov, and Søren Wichmann (2011): Malagasy dialects and the peopling of Madagascar. Journal of the Royal Society, Interface*, 9(66): 54–67.
+If you use these data please cite
+- the original source
+  > Maurizio Serva, Filippo Petroni, Dima Volchenkov, and Søren Wichmann (2011): Malagasy dialects and the peopling of Madagascar. Journal of the Royal Society, Interface*, 9(66): 54–67.
+- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
+
+## Description
+
 
 This dataset is licensed under a CC-BY license
 
@@ -38,3 +44,10 @@ Name | GitHub user | Role
  | @ | maintainer
 
 
+
+
+## CLDF Datasets
+
+The following CLDF datasets are available in [cldf](cldf):
+
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)

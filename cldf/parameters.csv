@@ -63,7 +63,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 62_grass,GRASS,606,GRASS
 63_green,GREEN,1425,GREEN
 64_guts,GUTS,1334,GUTS
-65_haironthehead,HAIR (ON THE HEAD),1040,HAIR
+65_haironthehead,HAIR (ON THE HEAD),2648,HAIR (HEAD)
 66_hand,HAND,1277,HAND
 67_he,HE,1211,HE
 68_head,HEAD,1256,HEAD
@@ -129,7 +129,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss
 128_scratchverb,SCRATCH (VERB),1436,SCRATCH
 129_sea,SEA,1474,SEA
 130_seeverb,SEE (VERB),1409,SEE
-131_seedsemen,SEED (SEMEN),714,SEED
+131_seedsemen,SEED (SEMEN),2283,SEMEN
 132_sewverb,SEW (VERB),1457,SEW
 133_sharp,SHARP,1396,SHARP
 134_short,SHORT,1645,SHORT
