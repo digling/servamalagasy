@@ -21,7 +21,7 @@ Conceptlists in Concepticon:
 
 
 [![CLDF validation](https://github.com/digling/servamalagasy/workflows/CLDF-validation/badge.svg)](https://github.com/digling/servamalagasy/actions?query=workflow%3ACLDF-validation)
-![Glottolog: 68%](https://img.shields.io/badge/Glottolog-68%25-orange.svg "Glottolog: 68%")
+![Glottolog: 97%](https://img.shields.io/badge/Glottolog-97%25-green.svg "Glottolog: 97%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
@@ -36,13 +36,6 @@ Conceptlists in Concepticon:
 - **Tokens:** 66,326
 - **Segments:** 53 (0 BIPA errors, 0 CTLS sound class errors, 51 CLTS modified)
 - **Inventory size (avg):** 40.70
-
-## Possible Improvements:
-
-- Languages linked to [bookkeeping languoids in Glottolog](http://glottolog.org/glottolog/glottologinformation#bookkeepinglanguoids):
-  - Betsimisaraka [sout3125](http://glottolog.org/resource/languoid/id/sout3125)
-
-
 
 # Contributors
 
@@ -62,4 +55,4 @@ Michele Pasquini   |             | data collector | DataCollector, Author
 
 The following CLDF datasets are available in [cldf](cldf):
 
-- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf\cldf-metadata.json](cldf\cldf-metadata.json)
