@@ -27,8 +27,8 @@ Conceptlists in Concepticon:
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 60
-- **Concepts:** 207
+- **Varieties:** 60 (linked to 22 different Glottocodes)
+- **Concepts:** 207 (linked to 207 different Concepticon concept sets)
 - **Lexemes:** 12,420
 - **Sources:** 1
 - **Synonymy:** 1.00
@@ -41,8 +41,8 @@ Conceptlists in Concepticon:
 
 Name               | GitHub user | Description    | Role
 ---                | ---         | ---            | ---
-Johann-Mattis List | @LinguList  | maintainer     | Other
-Fabio Fromme       | @frython   | student task   | Other
+Johann-Mattis List | @LinguList  | maintainer     | Editor
+Fabio Fromme       | @frython   | student task    | Other
 Simone Pomikalek   | @Simonecomcom| student task  | Other
 Janine Wieking     | @ja-wie     | student task   | Other
 Maurizio Serva     |             | data collector | DataCollector, Author
